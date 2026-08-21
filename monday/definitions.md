@@ -64,3 +64,12 @@ Using an AI system for its intended purpose, capabilities, and limitations. Tran
 What could POSSIBLY go wrong…right?! 
 
 If someone misused it for high-risk decisions or actions it’s not designed to handle. Transparency Note for Foundry Agent Service - Microsoft Foundry | Microsoft Learn
+
+Reading materials 
+- **Microsoft Learn: "Get started with generative AI"**
+  Link: https://learn.microsoft.com/en-us/training/modules/get-started-with-generative-ai/
+- **Microsoft Learn: "Introduction to large language models"**
+  Link: https://learn.microsoft.com/en-us/training/modules/introduction-large-language-models/
+
+Citations
+> Get started with generative AI — https://learn.microsoft.com/en-us/training/modules/get-started-with-generative-ai/ — Used for: GenAI/LLM concepts, prompt exploration.
