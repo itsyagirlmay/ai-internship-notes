@@ -1,3 +1,9 @@
+# Import pandas to confirm it is correctly accessible in this virtual environment
+import pandas as pd
+from datetime import datetime
+
+print(f"--- Pandas Version: {pd.__version__} successfully imported! ---\n")
+
 #Defining the function()lookup_item(items_dictionary, item_name):
 def lookup_item(items_dictionary, item_name):
     try:
