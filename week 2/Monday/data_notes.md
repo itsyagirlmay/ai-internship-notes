@@ -1,0 +1,5 @@
+# Data Notes — nam_places_raw.csv (Thursday)
+
+This is 6,576 OpenStreetMap features across Namibia — settlements (villages, towns, cities) and residential land parcels, each tagged with an id, name, place type, population, and administrative region. Two things look wrong immediately: 5,050 rows (77%) have no name and 5,030 have no place type — mostly unnamed residential-landuse polygons rather than actual named settlements, and population is missing in 6,536 of 6,576 rows (99%), which the dataset's own documentation explains as a coverage gap, not bad data ("crowd sourced and cannot be considered exhaustive"). The `is_in` and `source` columns are essentially unused (2 and 0 non-null values respectively) and add no value in their current form. There's also at least one real duplicate-by-casing issue already visible in the raw data: "Ivilivinzi" and "IVILIVINZI" refer to the same place.
+
+Source: [HOTOSM Namibia Populated Places](https://data.humdata.org/dataset/hotosm_nam_populated_places), Humanitarian OpenStreetMap Team, via the Humanitarian Data Exchange. License: Open Database License (ODC-ODbL).
