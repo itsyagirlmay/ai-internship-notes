@@ -1,0 +1,21 @@
+Cleaning log -- 2026-09-02 06:23
+Starting rows: 6576
+
+Removed 69 duplicate entries -- same place name + same district under a different OSM id (kept the first occurrence). Unnamed rows were left untouched to avoid falsely merging them.
+Dropped 'is_in' -- only 2 of 6507 rows had a value.
+Dropped 'source' -- only 0 of 6507 rows had a value.
+Dropped 'name_en' -- only 6 of 6507 rows had a value.
+Standardized name casing to title case -- merged 41 case-variant collision(s), e.g. 'IVILIVINZI' vs 'Ivilivinzi'.
+Verified population as numeric -- 0 non-numeric value(s) found and converted to null (source data was already clean on this column).
+Dropped 4433 row(s) with neither a name nor a place type -- unnamed land parcels, not named settlements.
+Left 2035 missing population value(s) as null -- not filled, see reflection below.
+
+Final rows: 2074
+Output written to nam_places_clean.csv
+
+Bias / privacy reflection:
+No direct PII, but two real issues: this is crowd-sourced OpenStreetMap data,
+so coverage skews toward well-mapped urban areas and undercounts remote regions;
+a sampling bias baked into collection, not fixable by cleaning. And I deliberately left
+missing population values as null instead of filling them, since guessing a number for real
+geographic data would be fabrication dressed up as cleaning.

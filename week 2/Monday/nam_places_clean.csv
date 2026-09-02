@@ -1,0 +1,2075 @@
+id,name,place,population,adm1_name,adm2_name
+way/316531153,Ivilivinzi,,,Zambezi,Kabbe
+node/12171825925,Ilalangwena,village,,Zambezi,Kabbe
+node/12171825924,Sintimbwi,village,,Zambezi,Kabbe
+node/12171825890,Isikili,village,,Zambezi,Kabbe
+relation/18290950,Makoma Makoma,,,Zambezi,Kabbe
+node/13957631257,Makusi,hamlet,,Zambezi,Katima Mulilo Rural
+node/13957631258,Sizimbukwa,village,,Zambezi,Katima Mulilo Rural
+node/13957631256,Kapolota,hamlet,,Zambezi,Katima Mulilo Rural
+node/5289060017,Mungweze,hamlet,,Zambezi,Katima Mulilo Rural
+node/13957631250,Maritzburg,village,,Zambezi,Katima Mulilo Rural
+node/13957631247,Kachepati,hamlet,,Zambezi,Katima Mulilo Rural
+node/13957631249,Kasikili,hamlet,,Zambezi,Katima Mulilo Rural
+node/13957631248,Kabula,hamlet,,Zambezi,Katima Mulilo Rural
+node/9754812614,Ngoma,village,,Zambezi,Katima Mulilo Rural
+node/2469647268,Ngoma Bridge,hamlet,,,
+node/13957631251,Isuswa,village,,Zambezi,Katima Mulilo Rural
+node/13957631252,Ioma,village,,Zambezi,Katima Mulilo Rural
+node/3216076445,Ikumwe,village,,Zambezi,Katima Mulilo Rural
+node/3948675505,Kazalui,hamlet,,Zambezi,Katima Mulilo Rural
+node/9747573466,Silumbi,village,,Zambezi,Katima Mulilo Rural
+node/9747566767,Kabubwana,hamlet,,Zambezi,Katima Mulilo Rural
+node/13957631260,Libuyu,village,,Zambezi,Katima Mulilo Rural
+node/5316199343,Muyako,village,,Zambezi,Katima Mulilo Rural
+node/900940421,Iseke,village,,Zambezi,Katima Mulilo Rural
+way/410317198,Chincimane,,,Zambezi,Sibbinda
+node/8749906019,Lusu,hamlet,,Zambezi,Sibbinda
+node/5289029310,Malundu,hamlet,,Zambezi,Sibbinda
+node/5289029311,Kanono,village,,Zambezi,Sibbinda
+node/8749958074,Kakoma,hamlet,,Zambezi,Sibbinda
+node/5289029373,Shaile,hamlet,,Zambezi,Sibbinda
+node/5321445892,Kaliangile,hamlet,,Zambezi,Kongola
+way/1036112229,Makusi,,,Zambezi,Sibbinda
+way/1053928840,Sibbinda,village,,Zambezi,Linyanti
+way/1198588501,Solar Village,,,Zambezi,Linyanti
+way/249062375,Makanga,village,,Zambezi,Linyanti
+node/12074878227,Golden Halfway,hamlet,,Zambezi,Linyanti
+way/1053709393,Masida,,,Zambezi,Linyanti
+way/1053934301,Kansoko,,,Zambezi,Linyanti
+way/1053926662,Sitanta,,,Zambezi,Linyanti
+node/11551945105,Samulandela,hamlet,,Zambezi,Linyanti
+way/955495314,Singobeka,,,Zambezi,Linyanti
+node/5318475103,Kapani,village,,Zambezi,Linyanti
+node/5289029374,Muketela,hamlet,,Zambezi,Sibbinda
+node/3215893530,Kikiya,hamlet,,Zambezi,Sibbinda
+node/3215893798,Sabelo,hamlet,,Zambezi,Linyanti
+way/315470572,Linyanti,village,,Zambezi,Linyanti
+node/3215883478,Maunga,hamlet,,Zambezi,Linyanti
+way/552872626,Batubaja,,,Zambezi,Linyanti
+node/11551945107,Mbilajwe,hamlet,,Zambezi,Linyanti
+node/8843298820,Silonga,hamlet,,Zambezi,Linyanti
+node/8843255385,Tokomela,hamlet,,Zambezi,Linyanti
+way/955492832,Samudono,,,Zambezi,Linyanti
+way/955495307,Lupito,,,Zambezi,Linyanti
+node/7227646545,Masiye,hamlet,,Zambezi,Linyanti
+way/955491740,Malengalenga,,,Zambezi,Linyanti
+node/2763846206,Okomboha,village,,Omaheke,Aminius
+node/2763846196,Aroams Oos,village,,Omaheke,Aminius
+node/2763846219,Otjiungukwa,village,,Omaheke,Aminius
+node/2763846215,Okoukambe,village,,Omaheke,Aminius
+node/2766585683,Okomungondo,village,,Omaheke,Aminius
+node/2766585692,Okonyama,village,,Omaheke,Aminius
+node/2766585710,Omutumbondudu,hamlet,,Omaheke,Aminius
+node/2766585721,Otjituwe,hamlet,,Omaheke,Aminius
+node/2766585732,Otjongombe,hamlet,,Omaheke,Aminius
+node/2766585699,Omitiomire,hamlet,,Omaheke,Aminius
+node/2766585726,Otjombungu,village,,Omaheke,Aminius
+node/2766585675,Okombepera,village,,Omaheke,Aminius
+node/2766585742,Otjoruharwi,village,,Omaheke,Aminius
+node/2137291612,Otjomukona,hamlet,,Omaheke,Aminius
+node/2763846217,Otjikoto,hamlet,,Omaheke,Aminius
+node/260779501,Onderombapa,village,,Omaheke,Aminius
+node/2763846213,Okomumbonde,hamlet,,Omaheke,Aminius
+node/2763846204,Okaseta,village,,Omaheke,Aminius
+node/2763846199,Aroams,village,,Omaheke,Aminius
+node/2763846202,Klein Aroams,hamlet,,Omaheke,Aminius
+node/2137291609,Oreviya,village,,Omaheke,Aminius
+node/7250089886,Tsjaka,village,,Omaheke,Kalahari
+node/2137291611,Otjipandjarwa,village,,Omaheke,Aminius
+way/389555122,Farm Schellenberg,,,Omaheke,Gobabis
+node/260776440,Gross Ums,hamlet,,Omaheke,Aminius
+node/2137295264,Sarie Maré,hamlet,,Omaheke,Aminius
+node/2137291610,Otjihozevi,village,,Omaheke,Aminius
+node/2137291608,Okahiokaapa,village,,Omaheke,Aminius
+node/2766585704,Omitivine,village,,Omaheke,Aminius
+node/2766589127,Ozondjiva,village,,Omaheke,Aminius
+node/2766834449,Otjovakombe,village,,Omaheke,Aminius
+node/2766834379,Oahava,village,,Omaheke,Aminius
+node/260782808,Aminuis,village,,Omaheke,Aminius
+node/2766834374,Mokaleng,village,,Omaheke,Aminius
+node/2061470759,Hugus,hamlet,,Omaheke,Aminius
+node/2061470760,Otjongwe,hamlet,,Omaheke,Aminius
+node/243765022,Leonardville,village,,Omaheke,Aminius
+node/243746400,Aranos,town,3683.0,Hardap,Mariental Rural
+node/2766834398,Okeruru,village,,Omaheke,Aminius
+node/2766834405,Okomukaru,village,,Omaheke,Aminius
+node/2766834391,Okamuina,hamlet,,Omaheke,Aminius
+node/2766834443,Otjinyotjimwe,hamlet,,Omaheke,Aminius
+node/2766835865,Rietquelle,hamlet,,Omaheke,Aminius
+node/2766834410,Okomuvya,hamlet,,Omaheke,Aminius
+node/2766589175,Okakuvisa,village,,Omaheke,Aminius
+node/2766589032,Otjomungwindi,village,,Omaheke,Aminius
+node/2766834432,Otjewe,hamlet,,Omaheke,Aminius
+node/2061324913,Okongowa,hamlet,,Omaheke,Aminius
+node/2766834384,Okahumandu,hamlet,,Omaheke,Aminius
+node/2766834413,Okonyoka,village,,Omaheke,Aminius
+node/2061324893,Gunkas,village,,Omaheke,Aminius
+node/2061328687,ǂHama-|I-!’Oa,hamlet,,Omaheke,Aminius
+node/2061324904,Kumu,hamlet,,Omaheke,Aminius
+way/946761679,Corridor 13,,,Omaheke,Aminius
+node/3186615884,Lendepas,isolated_dwelling,,Hardap,Mariental Rural
+node/3184573659,Gemsbok Farm,hamlet,,Hardap,Mariental Rural
+node/261574625,Gochas,village,,Hardap,Mariental Rural
+node/13555944419,Okampuma,hamlet,,Hardap,Mariental Rural
+node/13555944418,Okonjete,hamlet,,Hardap,Mariental Rural
+node/3160748521,Galloway,hamlet,,Hardap,Mariental Rural
+node/3160748581,Inhoek,hamlet,,Hardap,Mariental Rural
+node/13573494048,Swartwater,hamlet,,Karas,Berseba
+node/243736439,Twee Rivier,hamlet,,Hardap,Mariental Rural
+node/13617367510,Weg-Van-Alles,isolated_dwelling,,Hardap,Mariental Rural
+way/203336067,Mata-Mata Rest Camp,,,,
+node/243782397,Koës,village,,Karas,Keetmanshoop Rural
+way/218997046,Donkerhoek,,,Karas,Keetmanshoop Rural
+node/13904681372,Vredefontein,hamlet,,Karas,Berseba
+node/13904681373,Tsamarib,hamlet,,Karas,Berseba
+node/3174926177,Narubis,hamlet,,Karas,Keetmanshoop Rural
+node/1782024077,Narubus,isolated_dwelling,,Karas,Keetmanshoop Rural
+node/243782146,Vredeshoop,isolated_dwelling,,Karas,Keetmanshoop Rural
+node/243781436,Aroab,village,5000.0,Karas,Keetmanshoop Rural
+node/458742737,Ariamsvlei,town,,Karas,Karasburg
+way/829978045,Ukamas,,,Karas,Karasburg
+node/458754822,Blydeverwacht,hamlet,,Karas,Karasburg
+node/3164336542,Heirachabis,hamlet,,Karas,Karasburg
+way/478595720,Lordsville,,,Karas,Karasburg
+node/4718351776,Satco,hamlet,,Karas,Karasburg
+node/5281762949,Wortel,hamlet,,Karas,Karasburg
+node/3166721402,Dreihuk,hamlet,,Karas,Karasburg
+node/4718351762,Ubib,hamlet,,Karas,Karasburg
+way/478595722,Westerkim,,,Karas,Karasburg
+node/243653372,Karasburg,town,6000.0,Karas,Karasburg
+node/1384321455,!Gabis,isolated_dwelling,,Karas,Karasburg
+node/4224114590,Hamab,hamlet,,Karas,Karasburg
+node/243654011,Warmbad,village,,Karas,Karasburg
+way/1083975159,Rooikoppie,,,Karas,Karasburg
+node/3873169354,Eendoorn,hamlet,,Karas,Karasburg
+node/2028001648,Umeis,hamlet,,Karas,Karasburg
+node/243783485,Onseepkans,hamlet,,Karas,Karasburg
+node/3218059001,Jerusalem,hamlet,,Karas,Karasburg
+node/5281759293,Jericho,hamlet,,Karas,Karasburg
+way/1088223098,Skydrift,,,Karas,Karasburg
+node/544157624,Usakos,town,,Erongo,Karibib
+node/6169153253,Goabeb Diary,isolated_dwelling,,Erongo,Karibib
+node/6169087159,Goabeb,hamlet,,Erongo,Karibib
+way/1006497338,Gaobeb,,,Erongo,Karibib
+node/5678492287,Uiba-Oas,village,,Erongo,Karibib
+way/459357067,Cameron,,,Erongo,Karibib
+node/4022470770,Spitzkoppe,village,,Erongo,Daures
+way/1006177556,Black Range,,,Erongo,Daures
+node/13546419181,Stinkbank,hamlet,,Erongo,Karibib
+node/313473670,Wüstenquell,hamlet,,Erongo,Karibib
+node/13930863389,Omusema,hamlet,,Erongo,Karibib
+node/2282020383,Otjimbingwe,village,,Erongo,Karibib
+node/8345137967,Ondjeombaranga,hamlet,,Erongo,Karibib
+node/112255362,Wilhelmstal,hamlet,,Erongo,Karibib
+node/5535443253,Gross Barmen,hamlet,,Otjozondjupa,Okahandja
+way/980563960,Ruidenau,,,Otjozondjupa,Okahandja
+way/376194191,Baumgartsbrunn,,,Khomas,Windhoek Rural
+node/3792831522,Neuheusis,hamlet,,Khomas,Windhoek Rural
+relation/6520904,Old Hostels,,,Khomas,Windhoek West
+relation/6520903,New Hostels,,,Khomas,Windhoek West
+relation/6520902,Emona Hostels,,,Khomas,Windhoek West
+way/365892475,Shangri-La,,,Khomas,Windhoek West
+way/905770896,Hochlandrand,neighbourhood,,Khomas,Windhoek West
+way/359601581,West Vale,,,Khomas,Windhoek West
+way/431590029,Westlane Residential Apartments,,,Khomas,Windhoek West
+way/1190040019,Otjomuise Lifestyle Estate,,,Khomas,Khomasdal North
+way/365889646,Bella Rosa Poitevine,,,Khomas,Windhoek West
+way/367973836,Bella Rosa Lamarque,,,Khomas,Windhoek West
+way/365889625,Black Rock Court,,,Khomas,Windhoek West
+way/770257948,Bella Rosa Carolina,,,Khomas,Windhoek West
+way/367973835,Bella Rosa,,,Khomas,Windhoek West
+way/365889639,Bella Rosa Celsiana,,,Khomas,Windhoek West
+way/1306149230,Aviva Gardens,,,Khomas,Windhoek West
+way/365889627,Bella Rosa Gallica,,,Khomas,Windhoek West
+way/364633077,Westgate Hill,,,Khomas,Windhoek West
+way/1232459284,Dorado Valley,neighbourhood,,Khomas,Windhoek West
+way/1055109048,Khomas Hill,,,Khomas,Khomasdal North
+way/1232632984,Freedom Square,neighbourhood,,Khomas,Khomasdal North
+way/484799027,Single Quarters,neighbourhood,,Khomas,Khomasdal North
+way/484799019,Grysblock,neighbourhood,,Khomas,Samora Machel (Wanaheda)
+way/379400460,Caesars Court,,,Khomas,John Pandeni (Soweto)
+way/485010684,Dolam,neighbourhood,,Khomas,John Pandeni (Soweto)
+way/481419955,Oshitenda,neighbourhood,,Khomas,Tobias Hainyeko
+way/481423319,Freedom Land,neighbourhood,,Khomas,John Pandeni (Soweto)
+way/983916351,Extension 2,,,Oshana,Ondangwa
+node/259489787,Ondangwa,town,30000.0,Oshana,Ondangwa
+way/983918844,Extension 1,,,Oshana,Ondangwa
+way/983941126,Oluno,,,Oshana,Ondangwa
+way/983947418,Extension 9,,,Oshana,Ondangwa
+way/978976907,Onambango,,,Oshana,Uukwiyu
+node/9085944275,Eheke,village,,Oshana,Ondangwa
+way/1030013538,Sky Phase 2,,,Oshana,Ongwediva
+way/123306834,Extension 1,,,Oshana,Ongwediva
+way/123317184,Extension 4,,,Oshana,Ongwediva
+way/123308950,Extension 7,,,Oshana,Ongwediva
+way/123310453,Extension 6,,,Oshana,Ongwediva
+way/123308902,Extension 8,,,Oshana,Ongwediva
+way/123310452,Extension 10,,,Oshana,Ongwediva
+way/787551664,Extension 11,,,Oshana,Ongwediva
+way/123312897,Extension 3,,,Oshana,Ongwediva
+way/123308403,Extension 9,,,Oshana,Ongwediva
+way/123312896,Proper,,,Oshana,Ongwediva
+relation/18355975,Okandjengedi South,,,Oshana,Oshakati East
+node/1348262190,Ongwediva,town,20260.0,Oshana,Ongwediva
+way/123314931,Extension 2,,,Oshana,Ongwediva
+way/1030013536,Sky Phase 1,,,Oshana,Ongwediva
+way/1221795351,Efidilomulunga,,,Oshana,Ongwediva
+node/259490969,Oshakati,city,43000.0,Oshana,Oshakati West
+node/10087419020,Oshana Village Appartments,,,Oshana,Oshakati East
+way/1139061090,Okandjengedi North,,,Oshana,Oshakati East
+way/1138078688,Oneshila,,,Oshana,Oshakati East
+way/1247197670,Oshakati North,,,Oshana,Oshakati East
+way/1133304073,Onawa,,,Oshana,Oshakati East
+way/1136945161,Ompumbu,,,Oshana,Oshakati West
+node/6669837984,Uukwangula,hamlet,,Oshana,Okatana
+node/1358268868,Ompundja,hamlet,,Oshana,Oshakati East
+way/526771557,Uupeke,,,Oshana,Uuvudhiya
+node/13333953921,Uukwiyu,village,,Oshana,Uukwiyu
+node/13119245969,Okatyali,village,,Oshana,Okatyali
+way/490504114,Onkani,,,Omusati,Otamanzi
+way/947531892,Etilyasa,,,Omusati,Otamanzi
+node/8770553851,Otamanzi,village,,Omusati,Otamanzi
+way/981172926,Onanyalala,,,Oshana,Uuvudhiya
+way/978739503,Omutekua,,,Omusati,Otamanzi
+way/948223307,Uutsima,,,Omusati,Elim
+node/7593556730,Onaanda,village,,Omusati,Elim
+way/948541591,Onandjo,,,Omusati,Otamanzi
+way/812554692,Olundjinda,,,Omusati,Okahao
+node/1362592852,Ogongo,village,,Omusati,Ogongo
+node/9097287813,Okakwa,hamlet,,Omusati,Okalongo
+node/7728936996,Wakashamane,hamlet,,Omusati,Okalongo
+node/1362592853,Okalongo,village,,Omusati,Okalongo
+node/12071895558,Onheleiwa,village,,Omusati,Etayi
+node/12072033548,Onaimwandi,village,,Omusati,Etayi
+node/12072002050,Oikokola,village,,Ohangwena,Ongenga
+node/9034745675,Elalangali,hamlet,,Omusati,Okalongo
+node/8777171357,Elim,village,,Omusati,Elim
+way/976145197,Benedictine Sisters Of Oshikuku,,,Omusati,Oshikuku
+node/259491696,Oshikuku,town,,Omusati,Oshikuku
+node/12059609216,Endola,village,,Ohangwena,Endola
+node/12063707765,Iikelo,village,,Oshana,Okatana
+node/10611862388,Okatana,village,,Oshana,Okatana
+node/12061377879,Oupumako,village,,Oshana,Okatana
+way/1205928005,Oshekasheka,,,Oshana,Okaku
+way/1188193470,Onamutai,,,Oshana,Ongwediva
+way/1205229007,Lilagati,,,Oshana,Okaku
+way/983840616,Ondeihaluka,,,Ohangwena,Endola
+node/6067250090,Ongha,village,,Ohangwena,Endola
+node/5487027725,Okatope,village,,Ohangwena,Ohangwena
+way/1015475845,Odibo,,,Ohangwena,Oshikango
+node/12569520641,Helao Nafidi,town,,Ohangwena,Engela
+node/12072165448,Onghala,village,,Ohangwena,Ongenga
+node/12072165443,Oikoto,village,,Ohangwena,Ongenga
+node/12072165445,Okalondo,village,,Ohangwena,Ongenga
+node/4505765478,Omungwelume,village,,Ohangwena,Ongenga
+node/12072079906,Ondobe Yomunghudi,village,,Ohangwena,Ongenga
+node/12072066012,Oshali,village,,Ohangwena,Ongenga
+node/7536942653,Ongenga,village,,Ohangwena,Ongenga
+node/12072087958,Onangama,village,,Ohangwena,Ongenga
+node/5486980024,Eenhana,town,5528.0,Ohangwena,Eenhana
+node/5486997053,Ondobe,village,,Ohangwena,Ondobe
+node/6845007988,Onamahoka,hamlet,,Ohangwena,Omulonga
+node/6847390983,Onamukulo,hamlet,,Ohangwena,Omulonga
+way/1062563171,Ongula Yanetanga,,,Ohangwena,Omulonga
+node/5486984286,Onambutu,village,,Ohangwena,Eenhana
+way/1069096605,Omundaungilo,,,Ohangwena,Omundaungilo
+node/5156582415,Oshikunde,village,,Ohangwena,Epembe
+way/1218825473,Okanhi,,,Ohangwena,Okongo
+way/1219773086,Omboloka,,,Ohangwena,Okongo
+way/1068466473,Eendobe,,,Ohangwena,Okongo
+node/259603941,Okongo,town,,Ohangwena,Okongo
+way/1218825475,Omukukutu,,,Ohangwena,Okongo
+node/7270553181,Oshatotwa,hamlet,,Ohangwena,Okongo
+node/7522031393,Oidiva,hamlet,,Ohangwena,Okongo
+node/7549063650,Okanyanona,hamlet,,Ohangwena,Okongo
+node/7521826150,Omupini,hamlet,,Ohangwena,Okongo
+node/3211531068,Ekoka,hamlet,,Ohangwena,Okongo
+node/7521982507,Onghalulu,hamlet,,Ohangwena,Okongo
+way/1245304085,Oshalumbu,,,Ohangwena,Okongo
+way/1430391376,Oshushu,,,Ohangwena,Okongo
+node/7549063651,Ehafo,hamlet,,Ohangwena,Okongo
+node/7526435455,Omauni,hamlet,,Ohangwena,Okongo
+node/2355277611,Mpungu,village,,Kavango West,Mpungu
+node/2365748696,Zone,hamlet,,Kavango West,Mpungu
+node/2365748709,Simanya,village,,Kavango West,Mpungu
+node/2365756140,Kankudi,hamlet,,Kavango West,Mpungu
+node/2355277355,Kakuwa,hamlet,,Kavango West,Mpungu
+node/2355277505,Nepara,hamlet,,Kavango West,Mpungu
+node/3211302259,Elavi,hamlet,,Oshikoto,Eengodi
+node/3211301886,Mongombi,village,,Kavango West,Mpungu
+node/7528377228,Onkumbula,hamlet,,Oshikoto,Okankolo
+node/3211388525,King Kauluma Village,village,4800.0,Oshikoto,Eengodi
+node/546664314,Ombili,hamlet,,Oshikoto,Guinas
+node/259486111,Oshivelo,town,,Oshikoto,Guinas
+way/173914372,Namutoni Camp,,,Oshikoto,Omuthiyagwiipundi
+node/4354436905,Guinas,hamlet,,Oshikoto,Guinas
+node/7632695914,Tsumeb,town,20000.0,Oshikoto,Tsumeb
+node/251875424,Abenab,village,,Otjozondjupa,Grootfontein
+node/245029805,Tsintsabis,village,,Oshikoto,Guinas
+node/8319792140,Veldduin,isolated_dwelling,,Otjozondjupa,Grootfontein
+way/122921896,Extension 4,,,Otjozondjupa,Grootfontein
+way/122929435,Extension 2,,,Otjozondjupa,Grootfontein
+node/245024692,Grootfontein,town,16632.0,Otjozondjupa,Grootfontein
+way/122927383,Extension 1,,,Otjozondjupa,Grootfontein
+way/122935000,Proper,,,Otjozondjupa,Grootfontein
+node/245024496,Kombat,village,,Otjozondjupa,Otavi
+way/521657530,Nys Rietfontein,,,Otjozondjupa,Otavi
+way/1248053565,Extension 5,,,Otjozondjupa,Grootfontein
+way/1248053569,Extension 3,,,Otjozondjupa,Grootfontein
+node/5815268747,Omboora,hamlet,,Otjozondjupa,Okakarara
+node/3225590496,Coblenz,village,,Otjozondjupa,Okakarara
+node/5795991872,Omitjete,hamlet,,Otjozondjupa,Okakarara
+node/3225682070,Ongongoro,hamlet,,Otjozondjupa,Okakarara
+node/259995182,Okamatapati,village,,Otjozondjupa,Okakarara
+node/10158382422,Ekuenje,village,,Otjozondjupa,Okakarara
+way/1035107472,Oviserandu,,,Otjozondjupa,Okakarara
+way/1035107471,Omazera,,,Otjozondjupa,Okakarara
+way/1035107465,Omutiondundu,,,Otjozondjupa,Okakarara
+way/1301987537,Okahitanda,,,Otjozondjupa,Okakarara
+node/259990436,Okondjatu,village,,Otjozondjupa,Okakarara
+way/1312752361,Yard,,,Otjozondjupa,Okakarara
+way/1312752345,Hof,,,Otjozondjupa,Okakarara
+way/1312752389,Homestead Yard,,,Otjozondjupa,Okakarara
+way/1032495801,Okatjaveva,,,Otjozondjupa,Okakarara
+way/1032493294,Okaari,,,Otjozondjupa,Okakarara
+way/1032493296,Ondjombo Jorukune,,,Otjozondjupa,Okakarara
+way/1032493281,Omapumba,,,Otjozondjupa,Okakarara
+way/1032493288,Oktoto,,,Otjozondjupa,Okakarara
+way/1032483168,Okotjitundu,,,Otjozondjupa,Okakarara
+way/1032483167,Otjomupanda,,,Otjozondjupa,Okakarara
+node/3225584522,Ohamuheke,hamlet,,Otjozondjupa,Okakarara
+way/1032483174,Okeserahi,,,Otjozondjupa,Okakarara
+node/7260725549,Okozonduzo,hamlet,,Otjozondjupa,Okakarara
+node/259762318,Okanugu,hamlet,,Otjozondjupa,Okakarara
+node/7260725548,Otjikango,isolated_dwelling,,Otjozondjupa,Okakarara
+node/259762489,Ozongarongombe,hamlet,,Otjozondjupa,Okakarara
+node/7260725552,Okomumbonde,hamlet,,Otjozondjupa,Okakarara
+node/3225584549,Omaihi,hamlet,,Otjozondjupa,Okakarara
+node/5762492036,Orunahi,hamlet,,Otjozondjupa,Okakarara
+node/5762493561,Omatanga,hamlet,,Otjozondjupa,Okakarara
+node/5945849464,Otjjase,hamlet,,Otjozondjupa,Okakarara
+node/5815125823,Ombinda,hamlet,,Otjozondjupa,Okakarara
+node/5762513401,Omatupa,hamlet,,Otjozondjupa,Okakarara
+node/7260725550,Otuvingo,hamlet,,Otjozondjupa,Okakarara
+node/5796045402,Okasitu,hamlet,,Otjozondjupa,Okakarara
+node/5815378413,Okangwindi,hamlet,,Otjozondjupa,Okakarara
+node/5796029268,Otjinakui,hamlet,,Otjozondjupa,Okakarara
+node/5815334661,Okatwakoverwa,hamlet,,Otjozondjupa,Okakarara
+node/5796066872,Orauku,hamlet,,Otjozondjupa,Okakarara
+node/5815111408,Okangoho,hamlet,,Otjozondjupa,Okakarara
+way/1036024000,Ohakane,,,Otjozondjupa,Okakarara
+node/245022737,Okakarara,village,,Otjozondjupa,Okakarara
+way/1035986769,Otjitasu,,,Otjozondjupa,Okakarara
+way/508068269,Ongongombonde,,,Otjozondjupa,Okakarara
+node/5815206874,Okatuwo,hamlet,,Otjozondjupa,Okakarara
+way/1032483156,Otumborombonga,,,Otjozondjupa,Okakarara
+node/5762496178,Omatjatjeva,hamlet,,Otjozondjupa,Okakarara
+way/1021903119,Omupanda,,,Otjozondjupa,Okakarara
+node/5762504476,Ombuyovakuru,hamlet,,Otjozondjupa,Okakarara
+node/5762491184,Okahitua,hamlet,,Otjozondjupa,Okakarara
+node/7260725554,Ovitatu,hamlet,,Otjozondjupa,Okakarara
+node/7260725544,Okatjombe,isolated_dwelling,,Otjozondjupa,Omatako
+way/1021903108,Okovimboro,,,Otjozondjupa,Okakarara
+way/589251626,Opamwe,suburb,,Otjozondjupa,Okakarara
+node/245024172,Otavi,town,,Otjozondjupa,Otavi
+node/259222387,Outjo,town,,Kunene,Outjo
+way/1454028010,Sestig,,,Kunene,Outjo
+node/4496874489,Otjikondo,village,,Kunene,Kamanjab
+node/4188967035,Otjikarare,hamlet,,Kunene,Kamanjab
+way/1037981569,Lowensfontein,,,Kunene,Khorixas
+node/9915870151,Tsavises,hamlet,,Kunene,Khorixas
+node/9922072011,Okaseraue,hamlet,,Erongo,Daures
+way/1022896506,Okatjandjoura,,,Erongo,Daures
+way/1022900603,Ondundu Otjiyapa,,,Erongo,Daures
+node/3950746228,Okongue,hamlet,,Erongo,Daures
+node/7396285516,Oputua,hamlet,,Erongo,Daures
+node/5670681825,Okondomba,hamlet,,Erongo,Daures
+node/8849122388,Okotjoto,hamlet,,Erongo,Daures
+node/3950746231,Ozondati,hamlet,,Erongo,Daures
+way/1022943732,Omutiwanduko,,,Erongo,Daures
+node/3950746227,Motjari,hamlet,,Erongo,Daures
+way/1022891803,Otjohorongo,,,Erongo,Daures
+way/1009539831,Ovihitua,,,Erongo,Daures
+node/169021410,Kalkfeld,village,,Otjozondjupa,Otjiwarongo
+node/245023717,Otjiwarongo,city,49022.0,Otjozondjupa,Otjiwarongo
+node/5819909377,Sukses,hamlet,,Otjozondjupa,Omatako
+node/1252335446,Omaruru Wildlife Estate,,,Erongo,Omaruru
+node/258882740,Omatjete,village,12000.0,Erongo,Daures
+node/5667340835,Okomapuku,hamlet,,Erongo,Daures
+node/5670652736,Orumwe,hamlet,,Erongo,Daures
+node/1360523798,Okombahe,village,,Erongo,Daures
+way/315467026,Tubusis,village,,Erongo,Daures
+way/1008060434,Ketelbank,,,Erongo,Daures
+node/10135531018,Links En Regs,hamlet,,Erongo,Daures
+way/1006215853,Au Xas,,,Erongo,Daures
+node/5667385612,Gudubis,hamlet,50.0,Erongo,Daures
+way/1009944271,Aaba Noros,,,Erongo,Daures
+way/98029213,Ozondje,,,Erongo,Omaruru
+node/258875879,Omaruru,town,,Erongo,Omaruru
+node/243719248,Karibib,town,5132.0,Erongo,Karibib
+node/8638506458,Friedrichsfelde,hamlet,,Erongo,Karibib
+node/3192137648,Goas,hamlet,,Erongo,Karibib
+node/13546422003,Ubib,hamlet,,Erongo,Karibib
+node/3486111593,Safari Guest Farm Düsternbrook,hamlet,,Otjozondjupa,Okahandja
+node/3476780697,Otjiva,hamlet,,Khomas,Windhoek Rural
+node/1369708573,Döbra,hamlet,,Khomas,Windhoek Rural
+way/1307322724,Otjihase,,,Khomas,Windhoek Rural
+way/333995134,Elisenheim Guest Farm,hamlet,,Khomas,Windhoek Rural
+way/366737840,Nubuamis,neighbourhood,,Khomas,Katutura East
+way/484815593,Shandumbala,neighbourhood,,Khomas,Katutura East
+way/121411221,Eros Park,suburb,,Khomas,Windhoek Rural
+relation/17910829,Windhoek North,,,Khomas,Windhoek West
+way/1205121414,Raven Court,,,Khomas,Windhoek West
+way/1283190218,Palomar Court,,,Khomas,Windhoek West
+way/362989284,Kalahari Village,,,Khomas,Windhoek West
+way/1283190222,La Titia Court,,,Khomas,Windhoek West
+way/1283190220,Le Pally Court,,,Khomas,Windhoek West
+way/1153029723,Us Embassy,,,Khomas,Windhoek East
+way/1359873370,Heben Hills,neighbourhood,,Khomas,Windhoek East
+way/1359871895,Ludwigsplatz,neighbourhood,,Khomas,Windhoek East
+way/1260750351,Aegams Court,,,Khomas,Windhoek East
+way/1359964874,Mission Village,neighbourhood,,Khomas,Windhoek East
+way/122560345,Luxury Hill,,,Khomas,Windhoek East
+node/33364833,Windhoek,city,325858.0,Khomas,Windhoek West
+way/521469411,A Zebra Pousada Guest House,,,Khomas,Windhoek West
+way/120839027,Windhoek Golf Estate,,,Khomas,Windhoek West
+way/1212251984,Oracles,,,Khomas,Windhoek East
+way/1212251985,Kreuzberg,,,Khomas,Windhoek East
+relation/17618268,Kleine Kuppe,neighbourhood,,Khomas,Windhoek East
+way/1315317138,Deo Gratus,,,Khomas,Windhoek East
+way/270697202,St Michael'S Park Komplex,,,Khomas,Windhoek East
+node/2027886819,Hoffnung,hamlet,,Khomas,Windhoek Rural
+way/369242613,Finkenstein Estate,,,Khomas,Windhoek East
+node/1426092230,Kapps Farm,isolated_dwelling,,Khomas,Windhoek Rural
+way/830869489,Herboth'S Blick Nature Estate,isolated_dwelling,,Khomas,Windhoek Rural
+way/88822335,Farm Sonnleiten Retirement Residence,,,Khomas,Windhoek Rural
+node/2042155605,Seeis,hamlet,,Khomas,Windhoek Rural
+node/13935612737,Ongombo West,hamlet,,Khomas,Windhoek Rural
+way/601380203,Otjongombe,,,Otjozondjupa,Omatako
+way/601378633,Ovitoto,,,Otjozondjupa,Omatako
+relation/14120084,Okandjira,village,,Otjozondjupa,Omatako
+way/1011835371,Okamakuara,,,Otjozondjupa,Omatako
+way/988306373,Okasuuandjiuo,,,Otjozondjupa,Omatako
+way/1081336749,Okatjongwa,,,Otjozondjupa,Omatako
+way/1011835372,Okouue,,,Otjozondjupa,Omatako
+way/1012104747,Otjiserandu,,,Otjozondjupa,Omatako
+way/1058530604,Ovanduvongue,,,Otjozondjupa,Omatako
+way/1012104748,Okaokongunja,,,Otjozondjupa,Omatako
+way/988306360,Osatana,,,Otjozondjupa,Omatako
+way/921484837,Otjivahijona,,,Otjozondjupa,Omatako
+way/988306357,Okatjsoroi,,,Otjozondjupa,Omatako
+way/601383020,Oruuwa,,,Otjozondjupa,Omatako
+way/601381372,Onduezongange,,,Otjozondjupa,Omatako
+node/1369733116,Teufelsbach,hamlet,,Otjozondjupa,Omatako
+way/868393079,Osona Village,,,Otjozondjupa,Okahandja
+way/918615760,Vergenoeg,,,Otjozondjupa,Okahandja
+way/1094409930,Oshetu,,,Otjozondjupa,Okahandja
+way/1108149325,Ekunde,,,Otjozondjupa,Okahandja
+way/763346612,Veddersdal,,,Otjozondjupa,Okahandja
+node/243717016,Okahandja,city,22639.0,Otjozondjupa,Okahandja
+way/660883200,Gkamboro,,,Otjozondjupa,Omatako
+way/660565102,Okamboro,,,Otjozondjupa,Omatako
+way/659766447,Otjombali,,,Otjozondjupa,Omatako
+way/241224110,Osire Refugee Settlement,,,Otjozondjupa,Omatako
+node/259963976,Hochfeld,hamlet,,Otjozondjupa,Omatako
+way/986635929,Okatjuru Game Farm,,,Otjozondjupa,Omatako
+way/1020790672,Uitkoms,,,Otjozondjupa,Omatako
+way/669379736,Otjozondu,,,Otjozondjupa,Omatako
+way/1021158271,Okamapingo,,,Otjozondjupa,Okakarara
+way/1064155001,Ehungiro,,,Otjozondjupa,Okakarara
+node/259800590,Summerdown,hamlet,,Omaheke,Okarukambe (Steinhausen)
+node/4918199568,Steinhausen,village,,Omaheke,Okarukambe (Steinhausen)
+node/5981330358,Omitara,hamlet,,Omaheke,Okarukambe (Steinhausen)
+way/59546547,Otjivero,hamlet,,Omaheke,Okarukambe (Steinhausen)
+node/259779871,Witvlei,village,,Omaheke,Okarukambe (Steinhausen)
+way/1314783589,Omataura,,,Omaheke,Okarukambe (Steinhausen)
+way/1357849675,Valley Of Pride,,,Omaheke,Okarukambe (Steinhausen)
+way/978964336,Post 2,,,Omaheke,Okarukambe (Steinhausen)
+way/1357849672,Post 1,,,Omaheke,Okarukambe (Steinhausen)
+node/33364950,Gobabis,city,19101.0,Omaheke,Gobabis
+node/3188613804,Doringveld,hamlet,,Omaheke,Gobabis
+way/261710386,Drimiopsis,village,,Omaheke,Kalahari
+node/4918977392,Kehoro,hamlet,,Omaheke,Okarukambe (Steinhausen)
+node/13817324829,Voolsang,isolated_dwelling,,Omaheke,Okarukambe (Steinhausen)
+way/984002647,Combumbi,,,Omaheke,Okarukambe (Steinhausen)
+node/13817303263,Victorium,isolated_dwelling,,Omaheke,Okarukambe (Steinhausen)
+way/985565946,Manica,,,Omaheke,Okarukambe (Steinhausen)
+way/1081416481,Okahungu,,,Omaheke,Otjinene
+way/1006124923,Otjijere,,,Omaheke,Otjinene
+node/259754729,Otjinene,village,,Omaheke,Otjinene
+way/1078343782,Okatumba,,,Omaheke,Otjinene
+way/1078343781,Okarokape,,,Omaheke,Otjinene
+way/1022535639,Ozonduno,,,Omaheke,Otjinene
+way/1022535645,Epata,,,Omaheke,Otjinene
+node/12980234953,Otjovengi,hamlet,,Omaheke,Otjinene
+node/12980234955,Okauwa,hamlet,,Omaheke,Otjinene
+node/12980234954,Okonja,hamlet,,Omaheke,Otjinene
+way/1022535624,Okarui,,,Omaheke,Otjinene
+way/1022535625,Okatjana,,,Omaheke,Otjinene
+way/1022535627,Erindi Rozondjou,,,Omaheke,Otjinene
+node/12980234948,Ombujonjama,hamlet,,Omaheke,Otjinene
+node/12980234951,Erindi Roukambe,hamlet,,Omaheke,Otjinene
+node/12980234956,Otjiuaneho,village,,Omaheke,Otjinene
+node/12980234946,Oketoveni,hamlet,,Omaheke,Otjinene
+way/1022535637,Osume,,,Omaheke,Epukiro
+way/1001079901,Skoonheid,,,Omaheke,Okarukambe (Steinhausen)
+way/456673180,Mechwedina Village,,,Omaheke,Okarukambe (Steinhausen)
+way/261721712,Du Plessis,,,Omaheke,Okarukambe (Steinhausen)
+way/986407956,Okozondjima,,,Omaheke,Epukiro
+node/7419342315,Otjijere,hamlet,,Omaheke,Okarukambe (Steinhausen)
+way/1003034493,Ovinjuru,,,Omaheke,Epukiro
+way/1003928944,Katuuo,,,Omaheke,Epukiro
+way/1005356411,Otjimati,,,Omaheke,Epukiro
+way/1006119948,Okangwindi,,,Omaheke,Epukiro
+way/1006118072,Ohakavena,,,Omaheke,Epukiro
+way/1006118073,Okovimburo,,,Omaheke,Epukiro
+way/1032859312,Okasaira,,,Omaheke,Epukiro
+way/1000800379,Omawewozonyanda,,,Omaheke,Epukiro
+way/1006118074,Kalkpan,,,Omaheke,Epukiro
+way/1006119949,Okombumbi,,,Omaheke,Epukiro
+way/1005356351,Otjiyarua,,,Omaheke,Epukiro
+way/1004359932,Ovituua,,,Omaheke,Epukiro
+way/1004359909,Ndjipao Omeva,,,Omaheke,Otjombinde
+node/3190683674,Helena,hamlet,,Omaheke,Otjombinde
+node/13818403025,Koppie Alleen,hamlet,,Omaheke,Otjombinde
+way/1005847993,Vergenoeg,,,Omaheke,Kalahari
+node/261026104,Babi Babi,hamlet,,Omaheke,Kalahari
+node/2920192900,Buitepos,village,900.0,Omaheke,Kalahari
+node/13818403032,Bella Vista,hamlet,,Omaheke,Otjombinde
+node/13818403033,Grobbelaarsrus,hamlet,,Omaheke,Otjombinde
+node/13957433346,Tallismanus,village,,Omaheke,Otjombinde
+way/1005909831,Welgeluk,,,Omaheke,Otjombinde
+way/1005909834,Klipaar,,,Omaheke,Otjombinde
+way/313378336,Lister,,,Omaheke,Otjombinde
+node/13818403035,Sukkelaar,hamlet,,Omaheke,Otjombinde
+node/12216132022,De Hoek,hamlet,,Omaheke,Otjombinde
+node/12216125043,Oruuano,hamlet,,Omaheke,Otjombinde
+node/3193298442,Otjikoto,hamlet,,Omaheke,Otjombinde
+way/1032565566,Ondjombo Yateku,,,Otjozondjupa,Tsumkwe
+node/5435965787,Gam,village,,Otjozondjupa,Tsumkwe
+node/5436007746,Eiseb,village,,Omaheke,Otjombinde
+node/4292854108,Ben Se Kamp,hamlet,,Otjozondjupa,Tsumkwe
+node/4292864008,≠Aqabace North,village,,Otjozondjupa,Tsumkwe
+way/435949628,≠Aqbace,village,,Otjozondjupa,Tsumkwe
+node/4292864007,G!O'Aguru,village,,Otjozondjupa,Tsumkwe
+way/435945948,G|Oaguru,village,,Otjozondjupa,Tsumkwe
+way/435973593,Baraka,,,Otjozondjupa,Tsumkwe
+node/4292887318,Xamsa,village,,Otjozondjupa,Tsumkwe
+node/4292909015,N!Omdi,village,,Otjozondjupa,Tsumkwe
+way/435954174,N=Amapan,,,Otjozondjupa,Tsumkwe
+way/435953435,≠Xabace South,,,Otjozondjupa,Tsumkwe
+way/435953511,N≠Ama,hamlet,,Otjozondjupa,Tsumkwe
+way/425776982,!'Obaha,,,Otjozondjupa,Tsumkwe
+way/435976782,Tamboti Pos,hamlet,,Otjozondjupa,Tsumkwe
+node/4292905708,|Aotcha,hamlet,,Otjozondjupa,Tsumkwe
+node/4292833871,|Uidinsi (Maxamesi),village,,Otjozondjupa,Tsumkwe
+way/421640830,/Uidinsi,,,Otjozondjupa,Tsumkwe
+way/421633500,||Auru,,,Otjozondjupa,Tsumkwe
+node/4213904008,N≠Amtjoha,hamlet,,Otjozondjupa,Tsumkwe
+node/4213889842,G|Aq'O!Oma,hamlet,,Otjozondjupa,Tsumkwe
+way/220011616,Afrodite Beach,,,Erongo,Walvis Bay Rural
+way/88806270,Dolphin Beach,,,Erongo,Walvis Bay Rural
+way/966803728,Langstrand Ext. 1,,,Erongo,Walvis Bay Rural
+way/1228388390,Langstrand Ext. 2,,,Erongo,Walvis Bay Rural
+way/1228081238,Langstrand,,,Erongo,Walvis Bay Rural
+node/4352806532,Richthofen,hamlet,,Erongo,Swakopmund
+way/90184984,Democratic Resettlement Community,,,Erongo,Swakopmund
+node/33364835,Swakopmund,city,25000.0,Erongo,Swakopmund
+way/1392298803,The Bridge,,,Erongo,Swakopmund
+way/484210934,Kramersdorf,,,Erongo,Swakopmund
+way/1176139822,Mondesa View,,,Erongo,Swakopmund
+way/1176140300,Mondesa Heights,,,Erongo,Swakopmund
+way/586597990,Swakopmund Retirement Village,,,Erongo,Swakopmund
+way/586597989,Ext 39,,,Erongo,Swakopmund
+way/587541437,Ext 15,,,Erongo,Swakopmund
+way/587899599,Ext 1,,,Erongo,Swakopmund
+node/2705282894,Charlottenfelder,village,,Hardap,Gibeon
+node/2705282897,Holsatia,village,,Hardap,Gibeon
+way/985173917,Topnaar Settlement,isolated_dwelling,,Erongo,Walvis Bay Rural
+way/310684012,Gobabeb Research & Training Station,,,Erongo,Walvis Bay Rural
+way/985465705,Topnaar Settlement,isolated_dwelling,,Hardap,Gibeon
+node/2705282895,Fischersbrunn,village,,Hardap,Gibeon
+node/2705282896,Grillenberger,village,,Hardap,Gibeon
+way/26475077,Omdel,,,Erongo,Arandis
+node/175496995,Henties Bay,town,4720.0,Erongo,Arandis
+way/123556889,Proper,,,Erongo,Arandis
+way/123556566,Extension 2,,,Erongo,Arandis
+way/123555623,Extension 3,,,Erongo,Arandis
+way/136447582,Extension 1,,,Erongo,Arandis
+way/123557639,Extension 4,,,Erongo,Arandis
+relation/13065628,Extension 6,,,Erongo,Arandis
+way/586713669,Ext 19,,,Erongo,Swakopmund
+way/586713668,Ext 20,,,Erongo,Swakopmund
+way/586597987,Extension 22,,,Erongo,Swakopmund
+way/586597986,Extension 23,,,Erongo,Swakopmund
+node/124131089,Arandis,town,5214.0,Erongo,Arandis
+way/970176285,Extension 11,,,Erongo,Arandis
+way/360682115,Extension 10,,,Erongo,Arandis
+node/13098780114,Sebta Ahes,hamlet,,Erongo,Daures
+node/5670584280,Zebedeus,village,,Erongo,Daures
+node/13098780496,Kanamab,hamlet,,Erongo,Daures
+node/13100580704,Uis 2,hamlet,,Erongo,Daures
+node/258869517,Uis,village,,Erongo,Daures
+node/13100580773,Dam 2,hamlet,,Erongo,Daures
+node/13098780451,Dam 4,hamlet,,Erongo,Daures
+node/13100580774,Dam 3,hamlet,,Erongo,Daures
+node/13100580702,Khoroaus,hamlet,,Erongo,Daures
+node/13098780373,Khakabas,hamlet,,Erongo,Daures
+node/5670646335,Amasbank,hamlet,,Erongo,Daures
+node/13098780371,Daweb,hamlet,,Erongo,Daures
+node/13100580703,Kai Nuses,hamlet,,Erongo,Daures
+node/13098779246,Arixa Ams,hamlet,,Erongo,Daures
+node/13098780817,Gomatsarab,hamlet,,Erongo,Daures
+node/2501200817,Mile 108,hamlet,,Erongo,Arandis
+node/1834513048,Bergsig,hamlet,,Kunene,Khorixas
+way/1036542328,Vrede,,,Kunene,Khorixas
+node/5674254444,Geibigeb,village,,Kunene,Khorixas
+way/1007645553,Uitsig,,,Kunene,Khorixas
+way/499244243,Anichab,,,Kunene,Khorixas
+node/5670693372,Ais,hamlet,,Erongo,Daures
+node/5485042242,Onverwag,hamlet,,Kunene,Khorixas
+way/1007368151,Terra Mea,,,Kunene,Khorixas
+way/1007645550,Hou Moed,,,Kunene,Khorixas
+way/621156526,Extension 11,,,Kunene,Khorixas
+way/621154242,Extension 12,,,Kunene,Khorixas
+node/258888029,Khorixas,town,6900.0,Kunene,Khorixas
+node/258982029,Fransfontein,village,,Kunene,Khorixas
+node/2054449527,Dimab Farm,hamlet,,Kunene,Khorixas
+way/595325523,Twyfelfontein,,,Kunene,Khorixas
+way/1036851342,Estorff Opstal,,,Kunene,Sesfontein
+way/1037523918,Nan-Ais,,,Kunene,Sesfontein
+way/1038213290,!Gam-!Gaas,,,Kunene,Sesfontein
+way/360610349,Anker,,,Kunene,Sesfontein
+way/1038213287,Onguati,,,Kunene,Sesfontein
+node/258986827,Kamanjab,village,7000.0,Kunene,Kamanjab
+node/8443148121,Omusaona Himba Village,hamlet,,Kunene,Kamanjab
+node/5350399221,Condor,hamlet,,Kunene,Sesfontein
+way/314024868,Erwee,,,Kunene,Sesfontein
+way/1036550454,Rodeon Opstal,,,Kunene,Sesfontein
+way/360582825,Palm 708,,,Kunene,Sesfontein
+way/172580700,Palmkop,,,Kunene,Sesfontein
+node/12982355454,Möwe Bay,hamlet,,Kunene,Sesfontein
+node/9829300669,Otjizeka,hamlet,,Kunene,Opuwo
+node/11230784483,Okotjitenda,hamlet,,Kunene,Opuwo
+node/1805786831,Purros,hamlet,,Kunene,Opuwo
+node/2209814636,Okahirongo,hamlet,,Kunene,Opuwo
+node/12982822718,Otjovaurwa,hamlet,,Kunene,Opuwo
+node/12982822719,Okandjombe,hamlet,,Kunene,Opuwo
+node/12982816716,Orongoto,hamlet,,Kunene,Opuwo
+node/3347742998,Etanga,hamlet,,Kunene,Epupa
+node/13039676442,Okapawe,hamlet,,Kunene,Epupa
+node/13039676440,Ombirisazu,hamlet,,Kunene,Epupa
+node/13039676441,Okatjimbombo,hamlet,,Kunene,Epupa
+node/13039676443,Oozonduwombe,hamlet,,Kunene,Epupa
+node/3347745677,Omungwindi,hamlet,,Kunene,Epupa
+node/13039676408,Omirora,hamlet,,Kunene,Epupa
+node/13039676432,Okazorwe,hamlet,,Kunene,Epupa
+node/13039676438,Onywaa,hamlet,,Kunene,Epupa
+node/13039676439,Ekambo,hamlet,,Kunene,Epupa
+node/12982822722,Ekambo,hamlet,,Kunene,Opuwo
+node/13039676436,Okaanga,hamlet,,Kunene,Epupa
+node/12982822720,Ondiea,hamlet,,Kunene,Opuwo
+node/13039676431,Ondjombo,hamlet,,Kunene,Epupa
+node/12982822724,Otjitati,hamlet,,Kunene,Opuwo
+node/13039676433,Otjihaa,hamlet,,Kunene,Epupa
+node/13039676415,Orutanda,hamlet,,Kunene,Epupa
+node/13039676417,Omahokwa,hamlet,,Kunene,Epupa
+node/13039676413,Ombawe,hamlet,,Kunene,Epupa
+node/13039676414,Okatapati,hamlet,,Kunene,Epupa
+node/13039676404,Otjiunaune,hamlet,,Kunene,Epupa
+node/13039676403,Omungunda,hamlet,,Kunene,Epupa
+node/2142527465,Orupembe,hamlet,,Kunene,Opuwo
+node/2193288834,Ombaravera,hamlet,,Kunene,Epupa
+node/13039676427,Orumwe,hamlet,,Kunene,Epupa
+node/2193288648,Obivango,hamlet,,Kunene,Epupa
+node/13039676426,Ezorotuuo,hamlet,,Kunene,Epupa
+node/13039679812,Otsinungwa,hamlet,,Kunene,Epupa
+node/2536544350,Foz Do Cunene,hamlet,,Kunene,Epupa
+way/571796627,Ohajiuua,,,Kunene,Epupa
+node/2980954225,Epupa,village,,Kunene,Epupa
+node/11227845349,Okombambi,hamlet,,Kunene,Epupa
+node/13039676454,Ondonga,hamlet,,Kunene,Epupa
+node/13039676425,Ohongondjanambari,hamlet,,Kunene,Epupa
+node/3784512890,Otjipemba,hamlet,,Kunene,Epupa
+node/2189663121,Okauwa,hamlet,,Kunene,Epupa
+node/13039676453,Osyaa,hamlet,,Kunene,Epupa
+node/13039676422,Omauwa,hamlet,,Kunene,Epupa
+node/13039676421,Okavandje,hamlet,,Kunene,Epupa
+node/13039676423,Orokatuwo,hamlet,,Kunene,Epupa
+node/13039676424,Omuatjivingo,hamlet,,Kunene,Epupa
+node/7616770058,Otjihende,hamlet,,Kunene,Epupa
+node/13039676419,Okapaizirwa,hamlet,,Kunene,Epupa
+node/13039676420,Embwende,hamlet,,Kunene,Epupa
+node/13039676444,Oruyombo,hamlet,,Kunene,Epupa
+node/3347743000,Otjitanda,hamlet,,Kunene,Epupa
+node/13039676447,Ombepera,hamlet,,Kunene,Epupa
+node/13039676448,Oruwondo,hamlet,,Kunene,Epupa
+node/13039676449,Ovivera,hamlet,,Kunene,Epupa
+node/13039676450,Omingondo,hamlet,,Kunene,Epupa
+node/2189663124,Owareva,hamlet,,Kunene,Epupa
+node/2189663126,Owomirore,hamlet,,Kunene,Epupa
+node/2189663123,Oruseu,hamlet,,Kunene,Epupa
+node/2189663120,Okapara,hamlet,,Kunene,Epupa
+node/2980949083,Omuhonga,hamlet,,Kunene,Epupa
+node/3346502039,Otjijandjasemo,hamlet,,Kunene,Epupa
+node/7612452201,Otjiyandjasemo,hamlet,,Kunene,Epupa
+node/2188540033,Okanguati,village,,Kunene,Epupa
+node/2189663125,Owatjipawe,hamlet,,Kunene,Epupa
+node/3347448452,Oruhona,hamlet,,Kunene,Epupa
+node/3347448451,Okamwe,hamlet,,Kunene,Epupa
+node/3784416755,Otjomuru,hamlet,,Kunene,Epupa
+way/321340734,Etoto,,,Kunene,Epupa
+way/1012808742,Oroutumba,,,Kunene,Epupa
+node/5136125153,Epalela,village,,Omusati,Onesi
+node/5136125165,Eunda,hamlet,,Omusati,Onesi
+node/5136125136,Etunda,village,,Omusati,Ruacana
+way/572421393,Omahenene,,,Omusati,Onesi
+way/1210576312,Okapika,,,Omusati,Ruacana
+way/1198216621,Ndinoshiho Residence.,,,Omusati,Ruacana
+node/259587417,Ruacana,town,,Omusati,Ruacana
+way/1220990599,Okamboola,,,Omusati,Ruacana
+node/12509296098,Onandjandja,village,,Omusati,Ruacana
+node/259583231,Onesi,village,,Omusati,Onesi
+node/12207596437,Okasheshete,village,,Omusati,Onesi
+node/11983511361,Oshilemba,village,,Omusati,Tsandi
+node/12488691518,Iilyateko,village,,Omusati,Outapi
+node/12149696390,Omankono,village,,Omusati,Tsandi
+node/259583467,Tsandi,village,,Omusati,Tsandi
+node/12073662188,Onalushwa,village,,Omusati,Tsandi
+node/12106880433,Omathinma,village,,Omusati,Tsandi
+node/11983618182,Ondukuta,village,,Omusati,Tsandi
+node/12548711597,Ampole,hamlet,,Omusati,Tsandi
+way/1205838934,Oshihau,,,Omusati,Onesi
+node/5136125167,Oshaala,hamlet,,Omusati,Outapi
+node/5136125166,Mahenene,hamlet,,Omusati,Outapi
+node/12072982127,Omushii,village,,Omusati,Outapi
+node/8657300191,Ombalantu,village,,Omusati,Anamulenge
+node/1362633207,Outapi,town,7000.0,Omusati,Outapi
+node/8657930886,Anamulenge,village,,Omusati,Anamulenge
+way/934161428,Ordo Sancti Benedicti,,,Omusati,Anamulenge
+node/12072967712,Oshipaya,village,,Omusati,Anamulenge
+way/542305181,Olukekete,,,Omusati,Outapi
+way/542304689,Okapalelona,,,Omusati,Outapi
+way/542305473,Ontilindi,,,Omusati,Anamulenge
+way/980374097,Onawa,,,Omusati,Anamulenge
+node/9068699874,Ohelongo,hamlet,,Omusati,Anamulenge
+relation/17449290,Ombafi,,,Omusati,Ogongo
+node/11983692106,Okathitu,village,,Omusati,Tsandi
+node/11983667654,Elondo,village,,Omusati,Tsandi
+way/948240758,Uukwandongo,,,Omusati,Okahao
+way/948235938,Oshukwa,,,Omusati,Okahao
+node/259590679,Okahao,town,,Omusati,Okahao
+node/11940029382,Iikokola,village,,Omusati,Tsandi
+node/12488648326,Onashitendo,village,,Omusati,Tsandi
+way/1303767205,Ombala (Uukwaluudhi Royal Homestead),,,Omusati,Tsandi
+node/11939976949,Olukuma,village,,Omusati,Tsandi
+node/11939912715,Onangalo,village,,Omusati,Tsandi
+node/12073710652,Omwishi,village,,Omusati,Tsandi
+node/12072996662,Omapale,village,,Omusati,Tsandi
+node/11897386158,Olukulo,village,,Omusati,Tsandi
+node/11897401569,Ombugu,village,,Omusati,Tsandi
+node/11983654522,Ontanda,village,,Omusati,Tsandi
+node/11983622661,Oshipeto,village,,Omusati,Tsandi
+way/1312331442,Benedictine Sisters,,,Omusati,Tsandi
+way/1304538113,Oshaambelo Livestock Development Centre,,,Omusati,Tsandi
+node/12187896647,Eemwandi,village,,Omusati,Tsandi
+node/12072996905,Okatseidhi,village,,Omusati,Tsandi
+way/948240157,Onemanya,,,Omusati,Okahao
+way/1460380164,Iitapa,,,Omusati,Okahao
+node/12569321789,Onamatanga,village,,Omusati,Ruacana
+node/3676251145,Omakange,village,,Omusati,Ruacana
+way/971190418,Ongulumbashe,,,Omusati,Tsandi
+way/1295178417,Ondororundu,,,Kunene,Opuwo
+node/7429405810,Okandaurie,hamlet,,Kunene,Epupa
+node/2980943076,Ohandungu,hamlet,,Kunene,Epupa
+node/259003379,Opuwo,town,,Kunene,Opuwo
+way/316585593,Ombero Yamberangura,,,Kunene,Opuwo
+node/5928610835,Okorosava,village,,Kunene,Opuwo
+way/603110622,Kaoko-Otavi,,,Kunene,Opuwo
+node/5727208745,Ovihende,hamlet,,Kunene,Opuwo
+node/5728868581,Ongango,village,,Kunene,Opuwo
+node/5716022342,Okavare,village,,Kunene,Opuwo
+node/5726290307,Orumana,village,,Kunene,Opuwo
+node/7518716607,Otjouye,hamlet,,Kunene,Opuwo
+node/3209742669,Otjerunda,village,,Kunene,Opuwo
+node/7425734238,Okaozuvare,hamlet,,Kunene,Opuwo
+node/5931484418,Otjiu,hamlet,,Kunene,Opuwo
+node/3209757379,Otjitoko,hamlet,,Kunene,Opuwo
+way/603103526,Otuzemba,,,Kunene,Opuwo
+node/5350956921,Ekango,village,,Kunene,Opuwo
+node/3208274935,Otjondeka,hamlet,,Kunene,Opuwo
+node/3208273955,Katjiuru,hamlet,,Kunene,Opuwo
+node/3209832989,Oruvandjai,hamlet,,Kunene,Opuwo
+node/5928610851,Okauvore,hamlet,,Kunene,Opuwo
+node/5953642814,Okomuhana,hamlet,,Kunene,Opuwo
+node/5928610847,Okakuyu,hamlet,,Kunene,Opuwo
+node/3209812864,Otjapitjapi,hamlet,,Kunene,Opuwo
+node/5928610850,Otjomaoru,hamlet,,Kunene,Opuwo
+node/5350930545,Otjozongombe,village,,Kunene,Opuwo
+node/5928610839,Okahwa,hamlet,,Kunene,Opuwo
+node/3209796440,Ombombo,hamlet,,Kunene,Opuwo
+node/5953642813,Omao 2,hamlet,,Kunene,Opuwo
+node/3347742999,Omao,village,,Kunene,Opuwo
+node/5928610844,Ondera,hamlet,,Kunene,Opuwo
+node/5928610845,Ombembera,isolated_dwelling,,Kunene,Opuwo
+node/5729583041,Otjinanwa,hamlet,,Kunene,Opuwo
+node/5729557055,Otjikondavirongo,village,,Kunene,Opuwo
+node/3761038679,Otjiomatemba,hamlet,,Kunene,Opuwo
+node/3209824051,Okarumbu,hamlet,,Kunene,Opuwo
+node/3761038748,Otjontunda,hamlet,,Kunene,Opuwo
+node/13001428709,Ongongo,hamlet,,Kunene,Sesfontein
+node/5928610852,Okanandjoze,hamlet,,Kunene,Sesfontein
+node/3211168736,Anabeb,hamlet,,Kunene,Sesfontein
+node/11230570717,Okanamuva,hamlet,,Kunene,Sesfontein
+node/13001237853,Okapoko,hamlet,,Kunene,Sesfontein
+node/259002149,Sesfontein,town,,Kunene,Sesfontein
+relation/14207372,Warmquelle,,,Kunene,Sesfontein
+node/5350898139,Khowarib,hamlet,,Kunene,Sesfontein
+way/376071494,Kraal,isolated_dwelling,,Kunene,Sesfontein
+node/8960103746,Otjisakumuka,hamlet,,Kunene,Sesfontein
+way/376338898,Werda,hamlet,,Omusati,Okahao
+way/544293712,Dolomite Camp,,,Omusati,Okahao
+way/314773120,Otjokavare,,,Kunene,Sesfontein
+node/5350951319,Oromauwa Cattle Post,hamlet,,Omusati,Ruacana
+node/3208311615,Orondjize,hamlet,,Omusati,Ruacana
+node/3208312163,Otjetjekua,hamlet,,Omusati,Ruacana
+node/3208311625,Otjivero,hamlet,,Omusati,Ruacana
+way/603105823,Omuhama,,,Omusati,Ruacana
+way/488053845,Olifantsrus Camp,,,Omusati,Okahao
+way/562931922,Fence Warten Camp,,,Omusati,Okahao
+way/224458802,Okaukuejo Camp,village,,Oshana,Uuvudhiya
+node/4217155612,Halali,village,,Oshikoto,Omuthiyagwiipundi
+way/224860058,Halali Camp,village,,Oshikoto,Omuthiyagwiipundi
+node/3211928281,Omuntele,village,,Oshikoto,Omuntele
+node/7878529238,Ondjamba,hamlet,,Oshikoto,Omuntele
+node/1299351441,Onankali,village,,Oshikoto,Onyaanya
+way/1222926785,Onembenge,,,Oshikoto,Onyaanya
+way/1313550781,Oshalongo,,,Oshikoto,Omuntele
+way/315101345,Onanke,,,Oshikoto,Omuntele
+node/7699923412,Indongoyakeelu,hamlet,,Oshikoto,Omuthiyagwiipundi
+node/7680994558,Okangororosa,hamlet,,Oshikoto,Omuthiyagwiipundi
+way/823075159,Omutsewombahe,,,Oshikoto,Omuthiyagwiipundi
+node/1376606376,Omuthiya,town,,Oshikoto,Omuthiyagwiipundi
+way/1358885841,Omadhiya,,,Oshikoto,Omuthiyagwiipundi
+node/5945937061,Okapuko,hamlet,,Oshikoto,Omuthiyagwiipundi
+way/930660653,Oshifukwa,,,Oshikoto,Omuthiyagwiipundi
+way/981871847,Onyuulaye,,,Oshikoto,Okankolo
+node/1299351452,Amuteya,hamlet,,Oshikoto,Onyaanya
+way/927104429,Onambiga,,,Oshikoto,Eengodi
+way/927104430,Ontana,,,Oshikoto,Eengodi
+way/845024295,Onandjokwe,,,Oshikoto,Okankolo
+node/3211450704,Okankolo,village,,Oshikoto,Okankolo
+way/948548914,Omangundu,,,Oshikoto,Onyaanya
+way/1068446855,Okatope,,,Oshikoto,Onyaanya
+node/5943402392,Onyaanya,village,,Oshikoto,Onyaanya
+node/1299351440,Onathinge,hamlet,,Oshikoto,Onayena
+way/1206112479,Kuku Frieda Compound,,,Oshikoto,Onayena
+way/1206112161,Leonard Kambonde Compound,,,Oshikoto,Onayena
+node/7270675963,Olukonda,hamlet,,Oshikoto,Olukonda
+way/984236846,Oshaakondwa,quarter,,Oshikoto,Olukonda
+way/1219892731,Onethindi,quarter,,Oshikoto,Olukonda
+node/259489730,Oniipa,town,,Oshikoto,Oniipa
+node/3718184661,Onayena,village,,Oshikoto,Onayena
+node/5486314744,Oshigambo,village,,Oshikoto,Oniipa
+relation/16567944,Oshushe,,,Oshana,Okaku
+way/966754276,Extension 10,,,Oshana,Ondangwa
+way/983910125,Extension 6,,,Oshana,Ondangwa
+relation/16629179,Extension 3,,,Oshana,Ondangwa
+node/4213709449,N!Om|Xom,hamlet,,Otjozondjupa,Tsumkwe
+node/4213709569,Eagle Pos,hamlet,,Otjozondjupa,Tsumkwe
+node/4335565392,!Ukxoarama,village,,Otjozondjupa,Tsumkwe
+node/4292886845,Djxokhoe,village,,Otjozondjupa,Tsumkwe
+way/421970795,Mountain Pos,,,Otjozondjupa,Tsumkwe
+node/3928505186,Mountain Pos Traditional Village,hamlet,,Otjozondjupa,Tsumkwe
+way/421970796,Doupos,,,Otjozondjupa,Tsumkwe
+node/4117178568,Tsumkwe,town,,Otjozondjupa,Tsumkwe
+way/445461310,|Airu,neighbourhood,,Otjozondjupa,Tsumkwe
+way/427571732,Tsumkwe (Boundaries),village,,Otjozondjupa,Tsumkwe
+node/4292871542,De≠Hua,village,,Otjozondjupa,Tsumkwe
+node/4292871543,≠Om!O!O,village,,Otjozondjupa,Tsumkwe
+node/4292871539,||Xa|Oba,village,,Otjozondjupa,Tsumkwe
+node/4215984337,Routspos,hamlet,,Otjozondjupa,Tsumkwe
+node/4216050988,Kaptein Se Pos,hamlet,,Otjozondjupa,Tsumkwe
+node/4225447167,Apelpos,hamlet,,Otjozondjupa,Tsumkwe
+node/3196800439,Aasvoëlnes,hamlet,,Otjozondjupa,Tsumkwe
+node/4216055860,Duinpos,hamlet,,Otjozondjupa,Tsumkwe
+node/5652498437,Mangetti Dune,village,,Otjozondjupa,Tsumkwe
+node/13006027707,Luhebu,hamlet,,Otjozondjupa,Tsumkwe
+node/12980167993,Harmse,hamlet,,Omaheke,Otjinene
+node/12980234947,Okavangua,hamlet,,Omaheke,Otjinene
+way/1035032708,Okumumbonde,,,Omaheke,Otjinene
+way/1035032709,Okamuna Kondjima,,,Omaheke,Otjinene
+way/1035032710,Ozongaru,,,Omaheke,Otjinene
+way/1035032700,Otjihitua,,,Omaheke,Otjinene
+way/1035032702,Ovijapa,,,Omaheke,Otjinene
+way/1035032703,Otjiuaketambo,,,Omaheke,Otjinene
+relation/14388582,Ovizuzu,,,Omaheke,Otjinene
+node/10199560645,Otjiurutjokatjove,hamlet,,Otjozondjupa,Okakarara
+node/10199565417,Ondjomojomungondo,hamlet,,Otjozondjupa,Okakarara
+node/10198320989,Orukango Romungondo,hamlet,,Otjozondjupa,Okakarara
+node/3195473818,Okabumbuu,hamlet,,Otjozondjupa,Okakarara
+node/245027032,Okatjoruu,village,,Otjozondjupa,Okakarara
+node/259655170,Moroelaboom,hamlet,,Otjozondjupa,Grootfontein
+node/5652521186,Mangetti,village,,Kavango West,Kahenge
+node/5425398447,Mururani,village,,Otjozondjupa,Grootfontein
+node/13742398180,Magazaro,village,,Kavango West,Kapako
+way/1217173428,Rooidaghek,,,Otjozondjupa,Tsumkwe
+way/389706153,Grashoek,village,,Otjozondjupa,Tsumkwe
+node/13006027536,Sihova,hamlet,,Kavango West,Kapako
+node/13006027537,Mapupu,hamlet,,Kavango East,Mashare
+node/4216235539,Vicksrus,hamlet,,Otjozondjupa,Tsumkwe
+way/422819690,Nhoma,hamlet,,Otjozondjupa,Tsumkwe
+way/421880796,N||Hoq'Ma,village,,Otjozondjupa,Tsumkwe
+node/9258533981,Masivi,village,,Kavango West,Kapako
+way/1338665930,Tjivitjivi,village,,Kavango West,Kapako
+node/13742398013,Utjiliro,village,,Kavango West,Kapako
+node/13746034126,Sivaradi 2,village,,Kavango West,Kapako
+node/13746034125,Mburundu,village,,Kavango West,Kapako
+node/13746034134,Mbeyo,village,,Kavango West,Kapako
+node/13746034127,Sihepera,village,,Kavango West,Kapako
+node/2364947146,Ncamagoro,village,,Kavango West,Kapako
+node/2364947108,Ncaute,village,,Kavango East,Mashare
+node/9258533985,Makandina,hamlet,,Kavango East,Mashare
+node/9284080896,Kaburu' S Farm,isolated_dwelling,,Kavango East,Mashare
+node/5321584551,Baramashoni,hamlet,,Kavango East,Mashare
+node/9251442474,Shimpanda,hamlet,,Kavango East,Rundu Rural East
+node/12208797079,Sikambo,hamlet,,Kavango East,Rundu Rural East
+node/9251442473,Dove,hamlet,,Kavango East,Mashare
+node/5319617290,Mungunda,hamlet,,Kavango East,Mashare
+node/5319617289,Tjeye,hamlet,,Kavango East,Mashare
+node/5319617288,Mantjenya,hamlet,,Kavango East,Mashare
+node/9576504744,Muroro,hamlet,,Kavango East,Mashare
+node/2372653734,Shambyu,village,,Kavango East,Mashare
+node/5319579683,Kambowo,hamlet,,Kavango East,Rundu Rural East
+node/5319579681,Ngcarama,hamlet,,Kavango East,Rundu Rural East
+node/5319579680,Kaisosi,village,,Kavango East,Rundu Rural East
+way/314744285,Kayengona,,,Kavango East,Rundu Rural East
+way/1433038591,Village,village,,Kavango West,Kapako
+node/2365210427,Mupini,village,,Kavango West,Kapako
+way/1266267840,Kayirayira,,,Kavango West,Kapako
+way/1266267842,Muramba,,,Kavango West,Kapako
+node/2363943853,Kasote,village,,Kavango East,Rundu Rural West
+node/8008075891,Oshkanduka,village,,Kavango East,Rundu Rural West
+way/1266304291,Sikanduko,,,Kavango East,Rundu Rural West
+way/1465407424,Rainbow Village,,,Kavango East,Rundu Rural West
+node/259609505,Rundu,city,63431.0,Kavango East,Rundu Urban
+node/2363943855,Sarusungu,village,,Kavango East,Rundu Rural East
+way/859090317,Mavandje,,,Kavango East,Rundu Rural West
+way/859092289,Sharukwe,,,Kavango East,Rundu Rural West
+node/13746034110,Madudu,village,,Kavango East,Rundu Rural West
+node/2364947111,Mile 10,village,,Kavango East,Rundu Rural West
+way/1217522439,Kaguni,,,Kavango East,Rundu Rural West
+node/2364947117,Ncumcara Mile 20,village,,Kavango East,Rundu Rural West
+node/2365210428,Kapako,hamlet,,Kavango West,Kapako
+node/2365748704,Mayenzere,hamlet,,Kavango West,Kahenge
+node/13742398012,Epingiro A.,village,,Kavango West,Kapako
+node/13746034112,Sivaradi 1,village,,Kavango West,Kapako
+node/13746034111,Tuhafeni,village,,Kavango West,Kapako
+node/13742398122,Tsawatma,village,,Kavango West,Kapako
+node/13742398121,Mamono,village,,Kavango West,Kapako
+node/13742398147,Sidira,village,,Kavango West,Kapako
+node/13742398129,Wizeni,village,,Kavango West,Kapako
+node/13742398146,Dogoro,village,,Kavango West,Kapako
+way/1500787142,Kasava Refugee Camp,,,Kavango West,Kapako
+node/3211242911,Satotwa,village,,Kavango West,Kahenge
+node/2365756142,Mburu-Uru,village,,Kavango West,Kahenge
+node/2355277678,Tondoro,village,,Kavango West,Kahenge
+node/2365748699,Marema,hamlet,,Kavango West,Kahenge
+node/2355277674,Nankudu,village,,Kavango West,Kahenge
+way/570526681,Kahenge,,,Kavango West,Kahenge
+way/1442935629,Nkurenkuru Mission,,,Kavango West,Mpungu
+node/1362628219,Nkurenkuru,town,618.0,Kavango West,Mpungu
+way/1049691867,Kakuro,,,Kavango West,Mpungu
+node/5485064694,Bagani,village,2000.0,Kavango East,Mukwe
+way/523260557,Mutjiku,,,Kavango East,Mukwe
+node/532157357,Divundu,town,5430.0,Kavango East,Mukwe
+node/5316560022,Kanorombwe,village,,Kavango East,Mukwe
+node/5316560021,Ndongo,village,,Kavango East,Mukwe
+node/11575216642,Kamutjonga,village,,Kavango East,Mukwe
+way/362732123,Rangercamp,,,Kavango East,Mukwe
+way/565759615,Tapautha,,,Kavango East,Mukwe
+way/707917746,Dimwagha,,,Kavango East,Mukwe
+node/9258533970,Kangundja,hamlet,,Kavango East,Mukwe
+way/1244228024,Shamaturu,,,Kavango East,Mukwe
+node/9258533976,Divayi,village,,Kavango East,Mukwe
+node/9258533977,Dithimba,village,,Kavango East,Mukwe
+node/9258533975,Shakashi,hamlet,,Kavango East,Mukwe
+node/9258533974,Mukongotji,hamlet,,Kavango East,Mukwe
+node/9258533973,Shayirungu,hamlet,,Kavango East,Mukwe
+way/1245124118,Havo,,,Kavango East,Mukwe
+node/9258533972,Muthinduko,village,,Kavango East,Mukwe
+node/9258533969,Kavitji,hamlet,,Kavango East,Mukwe
+node/5317879348,Andara,village,,Kavango East,Mukwe
+node/5317938288,Diyana,village,,Kavango East,Mukwe
+node/5317961027,Kangongo,village,,Kavango East,Mukwe
+node/5317961097,Tjova,village,,Kavango East,Mukwe
+node/6372840215,Kambimba,hamlet,,Kavango East,Mukwe
+node/6372840216,Korokosha,hamlet,,Kavango East,Mukwe
+way/1244622541,Cwa,,,Kavango East,Ndiyona
+way/296888401,Cakuma,,,Kavango East,Ndiyona
+node/5319619310,Shinyungwe,village,,Kavango East,Ndiyona
+node/5319627647,Livuyu,village,,Kavango East,Ndiyona
+node/5317961100,Korokoko,village,,Kavango East,Ndiyona
+node/5317961099,Mukuvi,village,,Kavango East,Ndiyona
+way/522699765,Ndiyona,,,Kavango East,Ndiyona
+node/5319617293,Namu,hamlet,,Kavango East,Mashare
+node/3567047780,Koro,hamlet,,Kavango East,Mashare
+node/9284080162,Tara-Tara,hamlet,,Kavango East,Mashare
+way/667097983,Khaudum Rangers Station,,,Kavango East,Ndiyona
+node/6371072348,Ncame,hamlet,,Kavango East,Ndiyona
+way/380299576,Kandjara,,,Kavango East,Ndiyona
+node/6371072349,Shipakapaku,hamlet,,Kavango East,Ndiyona
+node/9258533980,Shambahe,hamlet,,Kavango East,Ndiyona
+node/9258533979,Dosa,hamlet,,Kavango East,Ndiyona
+node/6371072350,Dumushi,hamlet,,Kavango East,Ndiyona
+way/296888505,Shamburu,,,Kavango East,Ndiyona
+way/296886797,Livayi,,,Kavango East,Ndiyona
+way/422836557,Tco|Ana,,,Otjozondjupa,Tsumkwe
+way/435948044,≠'Otcaqkxai,village,,Otjozondjupa,Tsumkwe
+way/670080556,Ranger Station,,,Kavango East,Ndiyona
+node/8847681263,Sauzuo,hamlet,,Zambezi,Linyanti
+way/955495297,Sauzuo Combined School,,,Zambezi,Linyanti
+node/8843352561,Nongozi,hamlet,,Zambezi,Linyanti
+node/2283080000,Sangwali,village,,Zambezi,Linyanti
+node/7206361738,Lyanshulu,hamlet,,Zambezi,Linyanti
+node/311390770,Nakatwa,village,,Zambezi,Linyanti
+way/955584619,Baytown Square,,,Zambezi,Linyanti
+way/463880526,Kangongo,,,Zambezi,Linyanti
+way/955584618,Lizauli,,,Zambezi,Linyanti
+node/9685399788,Kalomo,hamlet,,Zambezi,Linyanti
+way/955912723,Sachona,village,,Zambezi,Linyanti
+node/9545922257,Lubuta,village,,Zambezi,Linyanti
+way/957036240,Mabanga,,,Zambezi,Linyanti
+relation/16606494,Mbomande,,,Zambezi,Kongola
+way/1032007486,Lusabe,,,Zambezi,Kongola
+way/1032007497,Kalubi,,,Zambezi,Kongola
+way/1032007498,Malengalenga,,,Zambezi,Kongola
+way/577854859,Lisehelo,,,Zambezi,Linyanti
+node/262148819,Kongola,village,,Zambezi,Kongola
+way/1032007478,Liyoyelo,,,Zambezi,Kongola
+way/955580490,Staff Houses,village,,Zambezi,Kongola
+node/3195543776,Omega Iii,hamlet,,Zambezi,Kongola
+node/4973153922,Masambo,hamlet,,Zambezi,Kongola
+node/4973891079,Kacenje,hamlet,,Zambezi,Kongola
+node/3195543775,Chetto,hamlet,,Zambezi,Kongola
+node/3195543777,Omega,village,,Kavango East,Mukwe
+relation/16606495,Ngo,,,Zambezi,Kongola
+way/1032007476,Sikaunga,,,Zambezi,Kongola
+way/1032007480,Makasa,,,Zambezi,Kongola
+relation/13874717,Sambe,,,Zambezi,Kongola
+way/1032007464,Muchimbami,,,Zambezi,Kongola
+way/1032007470,Mawizyu,,,Zambezi,Kongola
+way/1032007453,Lisabelo,,,Zambezi,Kongola
+node/9510573831,Izwi,isolated_dwelling,,Zambezi,Kongola
+way/315471522,Nampengu,,,Zambezi,Kongola
+node/5321445918,Sikubi,hamlet,,Zambezi,Kongola
+node/5321421842,Mutombwe,hamlet,,Zambezi,Sibbinda
+node/3215893485,Sibuyu,hamlet,,Zambezi,Sibbinda
+node/5321446974,Sachinga,hamlet,,Zambezi,Sibbinda
+node/3194374977,Kasheshe,village,,Zambezi,Sibbinda
+way/384994668,Bito,village,,Zambezi,Sibbinda
+node/3216076200,Mpacha,hamlet,,Zambezi,Sibbinda
+node/3216076447,Mubiza,village,,Zambezi,Katima Mulilo Rural
+relation/8492921,Kalimbeza,,,Zambezi,Kabbe
+node/3216076192,Lisikili,village,,Zambezi,Kabbe
+node/3948675724,Renduka,hamlet,,Zambezi,Katima Mulilo Rural
+way/315493179,Mafuta,village,,Zambezi,Katima Mulilo Rural
+node/3216076223,Mukisa,hamlet,,Zambezi,Katima Mulilo Rural
+relation/17888899,Kazauli,,,Zambezi,Katima Mulilo Urban
+way/612196148,Sukuta,,,Zambezi,Kabbe
+node/5289059996,Namalumbi,hamlet,,Zambezi,Katima Mulilo Rural
+node/331410669,Katima Mulilo,city,28362.0,Zambezi,Katima Mulilo Urban
+way/249403000,Ngweze,,,Zambezi,Katima Mulilo Urban
+way/218250460,New Cowboy,,,Zambezi,Katima Mulilo Urban
+way/194605879,Choto,,,Zambezi,Katima Mulilo Urban
+way/1053971310,Kabuku Village,,,Zambezi,Katima Mulilo Urban
+relation/20201655,Katima,,,,
+node/9370443733,Nanombe,isolated_dwelling,,Zambezi,Kabbe
+node/5289060012,Malindi,hamlet,,Zambezi,Kabbe
+way/616065374,Old Isize,,,Zambezi,Kabbe
+node/5287268214,Sifuha,village,,Zambezi,Kabbe
+way/612200710,Kalundu,,,Zambezi,Kabbe
+relation/8492500,Isize,,,Zambezi,Kabbe
+node/13957631259,Mwengamo,hamlet,,Zambezi,Katima Mulilo Rural
+node/3948675506,Mulion,hamlet,,Zambezi,Katima Mulilo Rural
+node/3948675501,Bukalo,village,500.0,Zambezi,Katima Mulilo Rural
+node/3216076238,Kabbe,village,,Zambezi,Kabbe
+node/1813845678,Luhonono,village,,Zambezi,Kabbe
+relation/8523638,Nsundwa,,,Zambezi,Kabbe
+relation/8528309,Namiyundu,,,Zambezi,Kabbe
+node/11550129326,Ikota,isolated_dwelling,,Zambezi,Kabbe
+node/11550129327,Kasaya,hamlet,,Zambezi,Kabbe
+node/11550129323,Kabungo,hamlet,,Zambezi,Kabbe
+node/11550129324,Mazizi,hamlet,,Zambezi,Kabbe
+node/11550129325,Kayanga,hamlet,,Zambezi,Kabbe
+node/5515605693,Mambova,village,,,
+way/183280537,Old Kazungula,,,,
+node/11550129328,Someli,hamlet,,Zambezi,Kabbe
+node/11550129333,Kasika,village,,Zambezi,Kabbe
+node/11550129330,Sabelo,hamlet,,Zambezi,Kabbe
+node/11550129332,Kasikili,hamlet,,Zambezi,Kabbe
+node/11550129329,Zaza,hamlet,,Zambezi,Kabbe
+node/11550129331,Kasenu,hamlet,,Zambezi,Kabbe
+relation/14235706,Mbalisinte,,,Zambezi,Kabbe
+way/346936747,Ijambwe,village,,Zambezi,Kabbe
+way/570526004,Ibbu,village,,Zambezi,Katima Mulilo Rural
+node/13957631253,Mutikitila,village,,Zambezi,Katima Mulilo Rural
+node/12657904588,Angra-Juntas,hamlet,,Karas,Naminus (Luderitz)
+node/13619631984,Witputs Wes,isolated_dwelling,,Karas,Naminus (Luderitz)
+node/243660982,Rosh Pinah,village,2835.0,Karas,Oranjemund
+way/1068736797,Daberas Mine Hostel,,,Karas,Oranjemund
+node/3975319333,Sanddrift,village,,,
+node/3503063789,Arriesdrif,isolated_dwelling,,Karas,Oranjemund
+way/403450504,Grootderm,,,Karas,Oranjemund
+node/262694682,Alexander Bay,village,,,
+node/243788224,Oranjemund,village,3908.0,Karas,Oranjemund
+way/388346624,Informal Settlement,,,Karas,Karasburg
+node/2034782874,Aussenkehr,village,,Karas,Karasburg
+node/243652939,Noordoewer,village,,Karas,Karasburg
+node/4224114589,Haib,hamlet,,Karas,Karasburg
+node/13629585471,Deelvlei,isolated_dwelling,,Karas,Karasburg
+node/3218044565,Uitskot,hamlet,,Karas,Karasburg
+node/243784427,Grünau,village,,Karas,Karasburg
+node/13629585390,Vaalputs,isolated_dwelling,,Karas,Karasburg
+node/1375657185,Klein Karas,isolated_dwelling,,Karas,Keetmanshoop Rural
+node/1375662579,Hobas Camp,hamlet,,Karas,Karasburg
+node/2477745743,ǀAi-ǀAis,village,,Karas,Karasburg
+node/2477850078,Oena Mine,village,,,
+node/13619631941,Abos,isolated_dwelling,,Karas,Berseba
+node/13718701567,Feldschuhhorn West,isolated_dwelling,,Karas,Berseba
+node/5271835168,Kosis,hamlet,,Karas,Berseba
+node/13718701590,Agasab,hamlet,,Karas,Berseba
+node/3181191460,Soutkuil,hamlet,,Karas,Berseba
+node/13620391338,Augurabis,isolated_dwelling,,Karas,Keetmanshoop Rural
+node/4949450677,Chamieites,hamlet,,Karas,Keetmanshoop Rural
+node/13620391343,Holoog,hamlet,,Karas,Keetmanshoop Rural
+node/13629585402,Goedemoed,isolated_dwelling,,Karas,Keetmanshoop Rural
+node/13629585403,Rooiberg,isolated_dwelling,,Karas,Keetmanshoop Rural
+node/1384301901,Seeheim,isolated_dwelling,,Karas,Keetmanshoop Rural
+node/13719242135,Droogputs,isolated_dwelling,,Karas,Keetmanshoop Rural
+node/3115277640,Snyfontein,hamlet,,Karas,Berseba
+way/817898419,Westdene,suburb,,Karas,Keetmanshoop Urban
+way/948405526,Ileni,,,Karas,Keetmanshoop Urban
+way/122981064,Tseiblaagte,suburb,,Karas,Keetmanshoop Urban
+node/82260251,Keetmanshoop,town,20977.0,Karas,Keetmanshoop Urban
+way/122981784,Noordhoek,suburb,,Karas,Keetmanshoop Urban
+way/306482315,Krönlein,suburb,,Karas,Keetmanshoop Urban
+node/5271838851,Tsawisis,hamlet,,Karas,Berseba
+node/13904651516,Wortel,hamlet,,Karas,Berseba
+node/13904681368,Blouputs,hamlet,,Karas,Berseba
+node/5485169747,Blouwes,village,300.0,Karas,Berseba
+node/13904680892,Kameel Rivier,hamlet,,Karas,Keetmanshoop Rural
+node/13904681077,Bloemhof,hamlet,,Karas,Keetmanshoop Rural
+node/13904681366,Blaukehl South,hamlet,,Karas,Berseba
+node/13904681367,Blaukehl North,hamlet,,Karas,Berseba
+node/11530267181,Bloedvlei,hamlet,,Karas,Berseba
+node/13904681370,Weltevrede,hamlet,,Karas,Berseba
+node/13904681371,Vergenoeg,hamlet,,Karas,Berseba
+node/13904680864,Nuwekalk,hamlet,,Karas,Berseba
+node/13904651517,Aub-Gaus,hamlet,,Karas,Berseba
+node/261601238,Tses,village,1000.0,Karas,Berseba
+node/13719242212,Tsaraxa-Aibes,isolated_dwelling,,Karas,Berseba
+node/13904680865,Kuikanabis,hamlet,,Karas,Berseba
+node/13904680866,Haruchas,hamlet,,Karas,Berseba
+node/11530269051,Wasser,hamlet,,Karas,Berseba
+node/13904680886,Poortjie,hamlet,,Karas,Berseba
+node/13719242211,Goms,isolated_dwelling,,Karas,Berseba
+node/261561473,Berseba,village,,Karas,Berseba
+node/13718701725,Nanerob,hamlet,,Karas,Berseba
+node/13718701672,At-Aisis,hamlet,,Karas,Berseba
+node/13718701671,Naruaums,hamlet,,Karas,Berseba
+node/13718701726,Huitsib,hamlet,,Karas,Berseba
+node/13718701934,Gavaams,hamlet,,Karas,Berseba
+node/13718701591,Noibrom,hamlet,,Karas,Berseba
+node/13718701618,Nuwe Florsheim,hamlet,,Karas,Berseba
+node/13718701507,Klein Schwarzkuppe,hamlet,,Karas,Berseba
+node/243779114,Bethanie,village,3900.0,Karas,Berseba
+node/13718701520,Groot Schwarzkuppe,hamlet,,Karas,Berseba
+way/34878111,Helmeringhausen,isolated_dwelling,,Karas,Berseba
+node/2038178818,Aus,village,,Karas,Naminus (Luderitz)
+way/384030247,Farm Plateau,,,Karas,Naminus (Luderitz)
+node/3181693484,Plateau,hamlet,,Karas,Naminus (Luderitz)
+node/2042165457,Guibis,hamlet,,Karas,Berseba
+node/13619621776,Kokerboomkloof,isolated_dwelling,,Karas,Naminus (Luderitz)
+node/12183500402,Pomona,hamlet,,Karas,Naminus (Luderitz)
+way/244451155,Area 7,,,Karas,Naminus (Luderitz)
+way/894502362,Sdfn,,,Karas,Naminus (Luderitz)
+way/97231609,Nautilus Extension 1,,,Karas,Naminus (Luderitz)
+node/4289452797,Sesriem,hamlet,,Hardap,Gibeon
+node/2697454854,Keerweder,hamlet,,Hardap,Gibeon
+node/3957282825,Amajuba,hamlet,,Hardap,Gibeon
+node/13011327831,Lekkerwater (Goede Hoop 135),isolated_dwelling,,Hardap,Gibeon
+node/3190343849,Ounois (Resettlement),hamlet,,Hardap,Rehoboth Rural
+node/408999371,Betta,hamlet,,Hardap,Gibeon
+way/442168500,Spes Bona,hamlet,,Hardap,Gibeon
+way/550634154,Swakara,hamlet,,Hardap,Gibeon
+node/5271839400,Aneis,isolated_dwelling,,Hardap,Gibeon
+node/2424717770,Kutenhoas,village,,Karas,Berseba
+node/2430600689,Gainachas,village,,Karas,Berseba
+node/5271839476,Oros,isolated_dwelling,,Karas,Berseba
+node/13572305319,Gavetamas,isolated_dwelling,,Karas,Berseba
+node/13572305320,Aretitis,hamlet,,Karas,Berseba
+node/13572305333,Zaris,hamlet,,Karas,Berseba
+node/13572305332,Groot Daberas,hamlet,,Karas,Berseba
+node/13572305331,Dorn-Daberas,hamlet,,Karas,Berseba
+node/2967088562,Mispa,hamlet,,Hardap,Gibeon
+node/7637898706,Amper Bo,hamlet,,Hardap,Gibeon
+node/13555944541,Arbeidsgenot,hamlet,,Karas,Berseba
+node/2967068493,Oskop,hamlet,,Hardap,Gibeon
+node/13555944232,Kameelhaar Nord,hamlet,,Hardap,Gibeon
+node/2282923557,Asab,isolated_dwelling,,Hardap,Gibeon
+node/2572839825,Gibeon,village,,Hardap,Gibeon
+node/13555939913,Glencoe,hamlet,,Hardap,Gibeon
+node/3190573217,Witbooisvlei,hamlet,,Hardap,Mariental Rural
+way/1107083005,Ou Stampriet,,,Hardap,Mariental Rural
+node/243746215,Stampriet,village,,Hardap,Mariental Rural
+node/5669837284,Mariental,town,12478.0,Hardap,Mariental Urban
+node/3162968095,Uibes,village,,Hardap,Gibeon
+way/88640891,Andrewville,,,Hardap,Gibeon
+node/243709809,Maltahöhe,village,,Hardap,Gibeon
+node/3188044063,Schlip,village,,Hardap,Rehoboth Rural
+way/312884170,Karanas Resettlement,,,Hardap,Rehoboth Rural
+node/10181682925,Witkop (Resettlement),hamlet,,Hardap,Rehoboth Rural
+node/2578070352,Kauchas,hamlet,,Hardap,Rehoboth Rural
+node/10181622898,Tsumis,hamlet,,Hardap,Rehoboth Rural
+node/10181683087,Nakaeis (Resettlement),hamlet,,Hardap,Rehoboth Rural
+node/10181683010,Naris (Resettlement),hamlet,,Hardap,Rehoboth Rural
+node/8515544951,Tsumis Park,village,,Hardap,Rehoboth Rural
+node/8513019378,Duineveld,village,,Hardap,Rehoboth Rural
+node/243710917,Kalkrand,village,,Hardap,Rehoboth Rural
+node/8993456586,Hoachanas,village,3500.0,Hardap,Mariental Rural
+node/243763678,Uhlenhorst,village,,Hardap,Mariental Rural
+node/4918093127,Ebenhaezer,hamlet,,Omaheke,Aminius
+node/243765947,Nina,hamlet,,Khomas,Windhoek Rural
+node/13935612764,Brack Oos,hamlet,,Khomas,Windhoek Rural
+node/13936620577,Hamis,hamlet,,Khomas,Windhoek Rural
+node/13936620555,Stinkwater,hamlet,,Khomas,Windhoek Rural
+node/6109594703,Dordabis,hamlet,,Khomas,Windhoek Rural
+node/13936620574,Ibenstein,hamlet,,Khomas,Windhoek Rural
+node/13936620573,Hatsamas West,hamlet,,Khomas,Windhoek Rural
+way/1314668378,Richard Vanwyk,,,Khomas,Windhoek Rural
+way/731747895,Sampan Resettlement,,,Hardap,Rehoboth Urban East
+way/729012650,Usib,,,Hardap,Rehoboth Urban East
+way/729185293,Sakomses Resettlement,,,Hardap,Rehoboth Urban East
+way/313037280,Rehoboth Station,,,Khomas,Windhoek Rural
+way/916844471,Ghobab,,,Hardap,Rehoboth Rural
+node/89142290,Rehoboth,town,,Hardap,Rehoboth Urban East
+way/1168984636,Vsv/B4A/011,,,Hardap,Rehoboth Urban East
+way/1168984637,Vsv/B4A/011A,,,Hardap,Rehoboth Urban East
+way/1168984627,Vsv/B4A/022,,,Hardap,Rehoboth Urban East
+way/1168984630,Vsv/B4A/021,,,Hardap,Rehoboth Urban East
+way/1168984628,Vsv/B4A/023,,,Hardap,Rehoboth Urban East
+way/1168984629,Vsv/B4A/028,,,Hardap,Rehoboth Urban East
+way/1168984635,Vsv/B4A/016,,,Hardap,Rehoboth Urban East
+way/1168984633,Vsv/B4A/015,,,Hardap,Rehoboth Urban East
+way/1168984632,Vsv/B4/100,,,Hardap,Rehoboth Urban East
+way/1168984631,Vsv/B4A/014,,,Hardap,Rehoboth Urban East
+way/1168984634,Vsv/B4/099,,,Hardap,Rehoboth Urban East
+way/1164447811,Bhk/B9/085,,,Hardap,Rehoboth Urban East
+way/1169011914,Bhk/B7A/013,,,Hardap,Rehoboth Urban East
+way/1169011915,Bhk/B7A/012,,,Hardap,Rehoboth Urban East
+way/1164463831,Bhk/B7A/009,,,Hardap,Rehoboth Urban East
+way/1164463832,Bhk/B7A/008,,,Hardap,Rehoboth Urban East
+way/1164463833,Bhk/B7A/007,,,Hardap,Rehoboth Urban East
+way/1164463823,Bhk/B7A/056,,,Hardap,Rehoboth Urban East
+way/1164463821,Bhk/B74A/054,,,Hardap,Rehoboth Urban East
+way/1164463845,Bhk/B7/108,,,Hardap,Rehoboth Urban East
+way/1164463848,Bhk/B7/109,,,Hardap,Rehoboth Urban East
+way/1164463828,Bhk/B7A/052,,,Hardap,Rehoboth Urban East
+way/1164463834,Bhk/B7/112,,,Hardap,Rehoboth Urban East
+way/1164463835,Bhk/B7/098,,,Hardap,Rehoboth Urban East
+way/1164463851,Bhk/B7/100,,,Hardap,Rehoboth Urban East
+way/1164463850,Bhk/B7/111,,,Hardap,Rehoboth Urban East
+way/1164463849,Bhk/B7/110,,,Hardap,Rehoboth Urban East
+way/1164463852,Bhk/B7/102,,,Hardap,Rehoboth Urban East
+way/1164463847,Bhk/B7/104,,,Hardap,Rehoboth Urban East
+way/1164463841,Bhk/B7/103,,,Hardap,Rehoboth Urban East
+way/1164463840,Bhk/B7/101,,,Hardap,Rehoboth Urban East
+way/1164454810,Bhk/B7/067,,,Hardap,Rehoboth Urban East
+way/1164454809,Bhk/B7/099,,,Hardap,Rehoboth Urban East
+way/1164454807,Bhk/B7/097,,,Hardap,Rehoboth Urban East
+way/1164454808,Bhk/B7/099A,,,Hardap,Rehoboth Urban East
+way/1164463836,Bhk/B7/096,,,Hardap,Rehoboth Urban East
+way/1164463837,Bhk/B7/094,,,Hardap,Rehoboth Urban East
+way/1164463838,Bhk/B7/113,,,Hardap,Rehoboth Urban East
+way/1164463839,Bhk/B7/114,,,Hardap,Rehoboth Urban East
+way/1161742140,Bhk/B7A/005,,,Hardap,Rehoboth Urban East
+way/1169011917,Bhk/B7A/001,,,Hardap,Rehoboth Urban East
+way/1169011918,Bhk/B7A/022,,,Hardap,Rehoboth Urban East
+way/1169011916,Bhk/B7A/021,,,Hardap,Rehoboth Urban East
+way/1169011922,Bhk/B7A/015,,,Hardap,Rehoboth Urban East
+way/1169011921,Bhk/B7A/027,,,Hardap,Rehoboth Urban East
+way/1169011919,Bhk/B7A/020,,,Hardap,Rehoboth Urban East
+way/1169011920,Bhk/B7A/019,,,Hardap,Rehoboth Urban East
+way/1169012086,Bhk/B6/054,,,Hardap,Rehoboth Urban East
+way/1159468337,Bhk/B1/081,,,Hardap,Rehoboth Urban East
+way/1169012122,Bhk/B1/077,,,Hardap,Rehoboth Urban East
+way/1169012121,Bhk/B1/075,,,Hardap,Rehoboth Urban East
+way/1169012120,Bhk/B1/076,,,Hardap,Rehoboth Urban East
+way/1164454804,Bhk/B7/093,,,Hardap,Rehoboth Urban East
+way/1164454811,Bhk/B7/091,,,Hardap,Rehoboth Urban East
+way/1164454801,Bhk/B7/076,,,Hardap,Rehoboth Urban East
+way/1164454812,Bhk/B7/089A,,,Hardap,Rehoboth Urban East
+way/1169017507,Bhk/B7/089,,,Hardap,Rehoboth Urban East
+way/1164454786,Bhk/B7/079,,,Hardap,Rehoboth Urban East
+way/1164454784,Bhk/B7/006,,,Hardap,Rehoboth Urban East
+way/1164454785,Bhk/B7/011,,,Hardap,Rehoboth Urban East
+way/1164454795,Bhk/B7/021,,,Hardap,Rehoboth Urban East
+way/1164454794,Bhk/B7/019,,,Hardap,Rehoboth Urban East
+way/1164454793,Bhk/B7/017,,,Hardap,Rehoboth Urban East
+way/1164454790,Bhk/B7/015,,,Hardap,Rehoboth Urban East
+way/1164454787,Bhk/B7/077,,,Hardap,Rehoboth Urban East
+way/1164454789,Bhk/B7/075,,,Hardap,Rehoboth Urban East
+way/1164454791,Bhk/B7/073A,,,Hardap,Rehoboth Urban East
+way/1164454802,Bhk/B7/074,,,Hardap,Rehoboth Urban East
+way/1164454803,Bhk/B7/071,,,Hardap,Rehoboth Urban East
+way/1164454806,Bhk/B7/069,,,Hardap,Rehoboth Urban East
+way/1164454792,Bhk/B7/073,,,Hardap,Rehoboth Urban East
+way/1164454797,Bhk/B7/072,,,Hardap,Rehoboth Urban East
+way/1164454796,Bhk/B7/023,,,Hardap,Rehoboth Urban East
+way/1164454798,Bhk/B7/070,,,Hardap,Rehoboth Urban East
+way/1164454800,Bhk/B7/068,,,Hardap,Rehoboth Urban East
+way/1164454799,Bhk/B7/026,,,Hardap,Rehoboth Urban East
+way/1164451788,Bhk/B7/028,,,Hardap,Rehoboth Urban East
+way/1164451789,Bhk/B7/030,,,Hardap,Rehoboth Urban East
+way/1164451792,Bhk/B7/027,,,Hardap,Rehoboth Urban East
+way/1164451800,Bhk/B7/024,,,Hardap,Rehoboth Urban East
+way/1164451801,Bhk/B7/025,,,Hardap,Rehoboth Urban East
+way/1164451793,Bhk/B7/029,,,Hardap,Rehoboth Urban East
+way/1164451794,Bhk/B7/031,,,Hardap,Rehoboth Urban East
+way/1164451795,Bhk/B7/033,,,Hardap,Rehoboth Urban East
+way/1159462531,Bhk/B8/22A,,,Hardap,Rehoboth Urban East
+way/1159462532,Bhk/B8/25A,,,Hardap,Rehoboth Urban East
+way/1159462530,Bhk/B8/023,,,Hardap,Rehoboth Urban East
+way/1159462538,Bhk/B8/019,,,Hardap,Rehoboth Urban East
+way/1159462539,Bhk/B8/021,,,Hardap,Rehoboth Urban East
+way/1169014258,Bhk/B8/016,,,Hardap,Rehoboth Urban East
+way/1169014259,Bhk/B8/027,,,Hardap,Rehoboth Urban East
+way/1159462533,Bhk/B8/020,,,Hardap,Rehoboth Urban East
+way/1169014260,Bhk/B8/025,,,Hardap,Rehoboth Urban East
+way/1159462547,Bhk/B8/012,,,Hardap,Rehoboth Urban East
+way/1169014257,Bhk/B8/014,,,Hardap,Rehoboth Urban East
+way/1159462548,Bhk/B7/107,,,Hardap,Rehoboth Urban East
+way/1164451799,Bhk/B7/036,,,Hardap,Rehoboth Urban East
+way/1164451798,Bhk/B7/035,,,Hardap,Rehoboth Urban East
+way/1164454948,Bhk/B7/040,,,Hardap,Rehoboth Urban East
+way/1164454950,Bhk/B7/039,,,Hardap,Rehoboth Urban East
+way/1164454951,Bhk/B7/037,,,Hardap,Rehoboth Urban East
+way/1164454949,Bhk/B7/055,,,Hardap,Rehoboth Urban East
+way/1164454947,Bhk/B7/041,,,Hardap,Rehoboth Urban East
+way/1164454946,Bhk/B7/054,,,Hardap,Rehoboth Urban East
+way/1169016210,Bhk/B7/056,,,Hardap,Rehoboth Urban East
+way/1164451797,Bhk/B7/034,,,Hardap,Rehoboth Urban East
+way/1164451796,Bhk/B7/034 (Numeration Mistake),,,Hardap,Rehoboth Urban East
+way/1164451791,Bhk/B7/032,,,Hardap,Rehoboth Urban East
+way/1169016211,Bhk/B7/060,,,Hardap,Rehoboth Urban East
+way/1164451790,Bhk/B7/062,,,Hardap,Rehoboth Urban East
+way/1164451787,Bhk/B7/064,,,Hardap,Rehoboth Urban East
+way/1164463843,Bhk/B7/065,,,Hardap,Rehoboth Urban East
+way/1164454953,Bhk/B7/048,,,Hardap,Rehoboth Urban East
+way/1164454952,Bhk/B7/047,,,Hardap,Rehoboth Urban East
+way/1169016221,Bhk/B7/049,,,Hardap,Rehoboth Urban East
+way/1164456290,Bhk/B7/106,,,Hardap,Rehoboth Urban East
+way/1164454941,Bhk/B7/044,,,Hardap,Rehoboth Urban East
+way/1164454940,Bhk/B7/051,,,Hardap,Rehoboth Urban East
+way/1164454938,Bhk/B7/046,,,Hardap,Rehoboth Urban East
+way/1164463846,Bhk/B7106,,,Hardap,Rehoboth Urban East
+way/1164454939,Bhk/B7/045,,,Hardap,Rehoboth Urban East
+way/1169016217,Bhk/B8/006,,,Hardap,Rehoboth Urban East
+way/1164454942,Bhk/B7/043,,,Hardap,Rehoboth Urban East
+way/1164454944,Bhk/B7/052,,,Hardap,Rehoboth Urban East
+way/1164454945,Bhk/B7/053,,,Hardap,Rehoboth Urban East
+way/1169016219,Bhk/B7/042,,,Hardap,Rehoboth Urban East
+way/1164454943,Bhk/B7/043A,,,Hardap,Rehoboth Urban East
+way/1169016213,Bhk/B8/008,,,Hardap,Rehoboth Urban East
+way/1169016212,Bhk/B8/009,,,Hardap,Rehoboth Urban East
+way/1169016220,Bhk/B8/009A,,,Hardap,Rehoboth Urban East
+way/1169016214,Bhk/B8/030,,,Hardap,Rehoboth Urban East
+way/1169016215,Bhk/B8/007,,,Hardap,Rehoboth Urban East
+way/1169016216,Bhk/B8/031,,,Hardap,Rehoboth Urban East
+way/1169016218,Bhk/B8/032,,,Hardap,Rehoboth Urban East
+way/1159464884,Bhk/B8A/009,,,Hardap,Rehoboth Urban East
+way/1159464881,Bhk/B8A/010,,,Hardap,Rehoboth Urban East
+way/1159464880,Bhk/B8/097,,,Hardap,Rehoboth Urban East
+way/1159464878,Bhk/B8/093,,,Hardap,Rehoboth Urban East
+way/1159464879,Bhk/B8A/015,,,Hardap,Rehoboth Urban East
+way/1159464877,Bhk/B8A/017,,,Hardap,Rehoboth Urban East
+way/1159464883,Bhk/B8/011,,,Hardap,Rehoboth Urban East
+way/1159467696,Bhk/B10/089,,,Hardap,Rehoboth Urban East
+way/1159467692,Bhk/B10/091,,,Hardap,Rehoboth Urban East
+way/1159467697,Bhk/B10/079,,,Hardap,Rehoboth Urban East
+way/1159467691,Bhk/B10/078A,,,Hardap,Rehoboth Urban East
+way/1169012852,Bhk/B10/080,,,Hardap,Rehoboth Urban East
+way/1159467690,Bhk/B10/081,,,Hardap,Rehoboth Urban East
+way/1159467689,Bhk/B10/083,,,Hardap,Rehoboth Urban East
+way/1159467694,Bhk/B10/095,,,Hardap,Rehoboth Urban East
+way/1159467695,Bhk/B10/096,,,Hardap,Rehoboth Urban East
+way/1169012851,Bhk/B10/093,,,Hardap,Rehoboth Urban East
+way/1159467693,Bhk/B10/092,,,Hardap,Rehoboth Urban East
+way/731747901,Koedokop Resettlement (1),,,Hardap,Rehoboth Urban West
+way/921818631,Koedoekop Camp,,,Hardap,Rehoboth Urban West
+way/731747896,Koedokop Resettlement (2),,,Hardap,Rehoboth Urban West
+node/4922598383,Brigadoon,hamlet,,Khomas,Windhoek Rural
+node/4927046529,Krumneck,hamlet,,Khomas,Windhoek Rural
+node/3189635353,Oamites,village,,Khomas,Windhoek Rural
+node/2486348246,Crinium Lake Estate,hamlet,,Khomas,Windhoek Rural
+node/2486348243,Mountainview Estate,hamlet,,Khomas,Windhoek Rural
+way/1271221606,Ongwena Townhouses,,,Khomas,Windhoek Rural
+way/88820733,Omeya Golf & Residential Oasis,suburb,,Khomas,Windhoek Rural
+way/224242013,Batsa Townhouses,,,Khomas,Windhoek Rural
+way/224231941,Omito Townhouses,,,Khomas,Windhoek Rural
+node/4345433838,Tranquility Nature Estate,hamlet,,Khomas,Windhoek Rural
+node/3189634837,Harmony Mountain Village,hamlet,,Khomas,Windhoek Rural
+node/4345433837,Ziveli Village,hamlet,,Khomas,Windhoek Rural
+relation/17913422,Regenstein,,,Khomas,Windhoek Rural
+node/3439623379,Kos,hamlet,,Khomas,Windhoek Rural
+node/716688042,Gamsberg Research Station,hamlet,,Khomas,Windhoek Rural
+node/4370222370,Haalsrivier,hamlet,,Hardap,Rehoboth Rural
+way/171900958,High Energy Stereoscopic System,isolated_dwelling,,Khomas,Windhoek Rural
+way/311314812,Naos,,,Khomas,Windhoek Rural
+node/5332476193,Klein Aub,village,,Hardap,Rehoboth Rural
+node/9337073801,Nabaseb,hamlet,,Hardap,Rehoboth Rural
+node/2574212277,Rietoog,village,,Hardap,Rehoboth Rural
+way/661395135,Sonop,,,Hardap,Rehoboth Rural
+node/6668766739,Solitaire,hamlet,,Khomas,Windhoek Rural
+node/3441430933,Camp Gecko,hamlet,,Khomas,Windhoek Rural
+node/243786013,Nauchas,hamlet,,Khomas,Windhoek Rural
+node/2139864860,Swartkrans,hamlet,,Khomas,Windhoek Rural
+node/2831993871,Koppies,hamlet,,Khomas,Windhoek Rural
+node/2129071938,Witberg,hamlet,,Khomas,Windhoek Rural
+node/1745825911,Dagbreek,hamlet,,Khomas,Windhoek Rural
+node/1947780607,Dagbreek Ii,hamlet,,Khomas,Windhoek Rural
+node/4690252369,Rostock Ritz,hamlet,,Khomas,Windhoek Rural
+node/697449142,Oase,hamlet,,Khomas,Windhoek Rural
+way/90525689,Namib Desert Lodge,,,Hardap,Gibeon
+node/3957282847,Middlepos,isolated_dwelling,,Hardap,Gibeon
+way/985467472,Topnaar Settlement Homeb,isolated_dwelling,,Erongo,Walvis Bay Rural
+node/1745766938,Old Rostock Farmhouse,hamlet,,Khomas,Windhoek Rural
+node/13546421982,Komuanab,hamlet,,Erongo,Karibib
+node/3650476972,Goanikontes,hamlet,,Erongo,Arandis
+node/4352806533,Birkenfels,hamlet,,Erongo,Arandis
+node/12992842560,Swartbank,hamlet,,Erongo,Walvis Bay Rural
+node/12992842561,Klipneus,hamlet,,Erongo,Walvis Bay Rural
+node/12992842559,Edoseb,hamlet,,Erongo,Walvis Bay Rural
+node/9048324989,Utuseb,hamlet,,Erongo,Walvis Bay Rural
+node/12992842558,Urutas,hamlet,,Erongo,Walvis Bay Rural
+way/485395571,Meersig Extension I,,,Erongo,Walvis Bay Urban
+node/33364834,Walvis Bay,city,62096.0,Erongo,Walvis Bay Urban
+node/3216076242,,hamlet,,Zambezi,Katima Mulilo Rural
+way/1060372853,,hamlet,,Zambezi,Katima Mulilo Rural
+node/12073735491,,isolated_dwelling,,Zambezi,Linyanti
+node/3215883271,,hamlet,,Zambezi,Linyanti
+node/12074878471,,isolated_dwelling,,Zambezi,Linyanti
+node/12073735094,,isolated_dwelling,,Zambezi,Linyanti
+node/12073734962,,isolated_dwelling,,Zambezi,Linyanti
+node/12073734870,,hamlet,,Zambezi,Linyanti
+node/3215893776,,hamlet,,Zambezi,Linyanti
+node/4919598000,,hamlet,,Omaheke,Kalahari
+node/2766834460,,village,,Omaheke,Aminius
+node/2766834466,,village,,Omaheke,Aminius
+node/3186773426,,hamlet,,Omaheke,Aminius
+node/3186757137,,hamlet,,Omaheke,Aminius
+node/3186757086,,hamlet,,Omaheke,Aminius
+node/2763846372,,hamlet,,Omaheke,Aminius
+node/2763846768,,village,,Omaheke,Aminius
+node/2763846500,,isolated_dwelling,,Omaheke,Aminius
+node/2763847817,,hamlet,,Omaheke,Aminius
+node/2766587733,,isolated_dwelling,,Omaheke,Aminius
+node/2763847617,,isolated_dwelling,,Omaheke,Aminius
+node/2763847523,,hamlet,,Omaheke,Aminius
+node/11676843164,,isolated_dwelling,,Omaheke,Aminius
+node/3186867181,,hamlet,,Omaheke,Kalahari
+node/3186757121,,hamlet,,Omaheke,Kalahari
+node/2137291887,,village,,Omaheke,Aminius
+node/3188612439,,hamlet,,Omaheke,Kalahari
+node/3172470748,,hamlet,,Omaheke,Gobabis
+node/3172469995,,hamlet,,Omaheke,Gobabis
+node/2766588449,,isolated_dwelling,,Omaheke,Aminius
+node/2766588457,,isolated_dwelling,,Omaheke,Aminius
+node/2766588784,,isolated_dwelling,,Omaheke,Aminius
+node/3186974293,,hamlet,,Hardap,Mariental Rural
+node/3188466354,,hamlet,,Hardap,Mariental Rural
+node/3174298986,,hamlet,,Hardap,Mariental Rural
+node/3170438041,,hamlet,,Hardap,Mariental Rural
+node/3170438049,,hamlet,,Hardap,Mariental Rural
+node/3184688076,,hamlet,,Hardap,Mariental Rural
+node/3184688363,,hamlet,,Hardap,Mariental Rural
+node/3184688100,,hamlet,,Hardap,Mariental Rural
+node/3161600865,,hamlet,,Hardap,Mariental Rural
+node/2766835448,,hamlet,,Omaheke,Aminius
+node/2766834841,,village,,Omaheke,Aminius
+node/3186647217,,hamlet,,Hardap,Mariental Rural
+node/3186647237,,hamlet,,Hardap,Mariental Rural
+node/3174200592,,hamlet,,Hardap,Mariental Rural
+node/3174232593,,hamlet,,Hardap,Mariental Rural
+node/3174232597,,hamlet,,Hardap,Mariental Rural
+node/3174232878,,hamlet,,Hardap,Mariental Rural
+node/3161573862,,hamlet,,Hardap,Mariental Rural
+node/3186647239,,hamlet,,Hardap,Mariental Rural
+node/3186660171,,hamlet,,Hardap,Mariental Rural
+node/3174299116,,hamlet,,Hardap,Mariental Rural
+node/3174298933,,hamlet,,Hardap,Mariental Rural
+node/3174299151,,hamlet,,Hardap,Mariental Rural
+node/3174299027,,hamlet,,Hardap,Mariental Rural
+node/3174298906,,hamlet,,Hardap,Mariental Rural
+node/3174298886,,hamlet,,Hardap,Mariental Rural
+node/3174299005,,hamlet,,Hardap,Mariental Rural
+node/3174298939,,hamlet,,Hardap,Mariental Rural
+node/3174299084,,hamlet,,Hardap,Mariental Rural
+node/3174298557,,hamlet,,Hardap,Mariental Rural
+node/3170507244,,hamlet,,Hardap,Mariental Rural
+node/3170494164,,hamlet,,Hardap,Mariental Rural
+node/3170469206,,hamlet,,Hardap,Mariental Rural
+node/3170499156,,hamlet,,Hardap,Mariental Rural
+node/3170469164,,hamlet,,Hardap,Mariental Rural
+node/3184573566,,hamlet,,Hardap,Mariental Rural
+node/3184573719,,hamlet,,Hardap,Mariental Rural
+node/3218100265,,hamlet,,Hardap,Mariental Rural
+node/3160748489,,hamlet,,Hardap,Mariental Rural
+node/3219093284,,hamlet,,Karas,Keetmanshoop Rural
+node/3161687504,,hamlet,,Karas,Keetmanshoop Rural
+node/3161651541,,hamlet,,Karas,Keetmanshoop Rural
+node/3174645299,,hamlet,,Karas,Keetmanshoop Rural
+node/3175002330,,hamlet,,Karas,Keetmanshoop Rural
+node/3175687802,,hamlet,,Karas,Keetmanshoop Rural
+node/3175656095,,hamlet,,Karas,Keetmanshoop Rural
+node/3175655628,,hamlet,,Karas,Keetmanshoop Rural
+node/3181611553,,hamlet,,Karas,Karasburg
+node/3180242819,,hamlet,,Karas,Karasburg
+node/3218044622,,hamlet,,Karas,Karasburg
+node/5281763512,,village,,Karas,Karasburg
+node/5281762984,,hamlet,,Karas,Karasburg
+node/2150014040,,hamlet,,Erongo,Karibib
+node/3192146434,,hamlet,,Erongo,Karibib
+node/3192581436,,hamlet,,Otjozondjupa,Okahandja
+way/1251109086,,neighbourhood,,Khomas,Windhoek West
+way/1242208368,,neighbourhood,,Khomas,Windhoek West
+relation/17501477,,neighbourhood,,Khomas,Samora Machel (Wanaheda)
+node/9588766894,,isolated_dwelling,,Kavango West,Mpungu
+node/9588804882,,isolated_dwelling,,Kavango West,Mpungu
+node/9588842732,,isolated_dwelling,,Kavango West,Mpungu
+node/9588800242,,isolated_dwelling,,Kavango West,Mpungu
+node/3211302231,,hamlet,,Oshikoto,Eengodi
+node/6851569407,,hamlet,,Oshikoto,Eengodi
+node/9588842074,,isolated_dwelling,,Oshikoto,Guinas
+node/9588881577,,isolated_dwelling,,Oshikoto,Guinas
+node/9588881564,,isolated_dwelling,,Oshikoto,Guinas
+node/9588891761,,isolated_dwelling,,Oshikoto,Guinas
+node/3211576243,,hamlet,,Oshikoto,Guinas
+node/4949791224,,isolated_dwelling,,Oshikoto,Guinas
+node/9588841676,,isolated_dwelling,,Kavango West,Mpungu
+node/3226001060,,hamlet,,Otjozondjupa,Grootfontein
+node/3226001053,,hamlet,,Otjozondjupa,Grootfontein
+node/3225681982,,hamlet,,Otjozondjupa,Okakarara
+node/3225590489,,hamlet,,Otjozondjupa,Okakarara
+node/3225682366,,hamlet,,Otjozondjupa,Okakarara
+node/3225682354,,hamlet,,Otjozondjupa,Okakarara
+node/3367401689,,hamlet,,Otjozondjupa,Okakarara
+node/3367404200,,hamlet,,Otjozondjupa,Okakarara
+node/7260725555,,hamlet,,Otjozondjupa,Okakarara
+node/3225584527,,hamlet,,Otjozondjupa,Okakarara
+node/3225590518,,hamlet,,Otjozondjupa,Okakarara
+node/3224010858,,hamlet,,Kunene,Outjo
+node/3224010860,,village,,Kunene,Outjo
+node/3223936558,,hamlet,,Kunene,Kamanjab
+node/3224931644,,hamlet,,Kunene,Khorixas
+node/3224931640,,hamlet,,Kunene,Khorixas
+node/5291632232,,isolated_dwelling,,Otjozondjupa,Otjiwarongo
+node/5291898150,,isolated_dwelling,,Otjozondjupa,Otjiwarongo
+node/5291898149,,isolated_dwelling,,Otjozondjupa,Otjiwarongo
+node/5291899514,,hamlet,,Otjozondjupa,Otjiwarongo
+node/5291898147,,isolated_dwelling,,Otjozondjupa,Otjiwarongo
+node/5291898558,,isolated_dwelling,,Otjozondjupa,Otjiwarongo
+node/3192591468,,hamlet,,Otjozondjupa,Okahandja
+node/5293651156,,hamlet,,Erongo,Omaruru
+node/11961413904,,hamlet,,Erongo,Omaruru
+node/3215840392,,hamlet,,Erongo,Daures
+node/3215839720,,hamlet,,Erongo,Daures
+node/3215839921,,hamlet,,Erongo,Daures
+node/3215840073,,hamlet,,Erongo,Daures
+node/3215840338,,hamlet,,Erongo,Daures
+node/3215840261,,hamlet,,Erongo,Daures
+node/3215838910,,hamlet,,Erongo,Daures
+way/484819375,,neighbourhood,,Khomas,Katutura East
+relation/17629958,,neighbourhood,,Khomas,Windhoek Rural
+way/1251109077,,neighbourhood,,Khomas,Windhoek West
+way/1251109094,,neighbourhood,,Khomas,Windhoek West
+way/1361155375,,neighbourhood,,Khomas,Windhoek East
+node/4918838094,,hamlet,,Omaheke,Okarukambe (Steinhausen)
+way/59546545,,hamlet,,Omaheke,Okarukambe (Steinhausen)
+node/4919189374,,hamlet,,Khomas,Windhoek Rural
+node/4918387517,,hamlet,,Omaheke,Okarukambe (Steinhausen)
+node/4918977401,,hamlet,,Omaheke,Okarukambe (Steinhausen)
+node/3216402992,,hamlet,,Omaheke,Otjombinde
+node/3216505774,,hamlet,,Omaheke,Kalahari
+node/3190683258,,hamlet,,Omaheke,Otjombinde
+way/313378335,,village,,Omaheke,Otjombinde
+node/3193298398,,hamlet,,Omaheke,Otjombinde
+way/435975850,,hamlet,,Otjozondjupa,Tsumkwe
+node/4213487471,,hamlet,,Kunene,Khorixas
+node/4212100233,,hamlet,,Kunene,Khorixas
+node/3461902658,,hamlet,,Kunene,Khorixas
+node/3461902924,,hamlet,,Kunene,Khorixas
+node/3434614610,,hamlet,,Kunene,Khorixas
+node/3461903105,,hamlet,,Kunene,Khorixas
+node/3461797294,,hamlet,,Kunene,Khorixas
+node/4213789724,,hamlet,,Kunene,Sesfontein
+node/4213751368,,hamlet,,Kunene,Sesfontein
+node/4212315773,,hamlet,,Kunene,Kamanjab
+node/4212312770,,hamlet,,Kunene,Kamanjab
+node/4212312246,,hamlet,,Kunene,Kamanjab
+node/4212334705,,hamlet,,Kunene,Kamanjab
+node/5204373733,,hamlet,,Kunene,Kamanjab
+node/4212373627,,hamlet,,Kunene,Kamanjab
+node/4212373564,,hamlet,,Kunene,Kamanjab
+node/4212420923,,hamlet,,Kunene,Sesfontein
+node/3461768496,,hamlet,,Kunene,Sesfontein
+node/3461768068,,hamlet,,Kunene,Sesfontein
+node/3461768091,,hamlet,,Kunene,Sesfontein
+node/2208469162,,village,,Kunene,Sesfontein
+node/4213790113,,hamlet,,Kunene,Sesfontein
+node/4213789758,,hamlet,,Kunene,Sesfontein
+node/3461768588,,hamlet,,Kunene,Sesfontein
+node/5344202438,,hamlet,,Kunene,Khorixas
+node/3222806473,,hamlet,,Kunene,Sesfontein
+node/3200594218,,hamlet,,Kunene,Sesfontein
+node/2209814049,,hamlet,,Kunene,Opuwo
+node/11230825525,,hamlet,,Kunene,Opuwo
+node/5948514543,,hamlet,,Kunene,Opuwo
+node/5948514809,,isolated_dwelling,,Kunene,Opuwo
+node/5948514561,,isolated_dwelling,,Kunene,Opuwo
+node/5948514513,,hamlet,,Kunene,Opuwo
+node/11227664305,,hamlet,,Kunene,Epupa
+node/11227664288,,isolated_dwelling,,Kunene,Epupa
+node/11227664287,,hamlet,,Kunene,Epupa
+node/11227664286,,isolated_dwelling,,Kunene,Epupa
+node/11227664285,,isolated_dwelling,,Kunene,Epupa
+node/11227664275,,isolated_dwelling,,Kunene,Epupa
+node/11227664282,,isolated_dwelling,,Kunene,Epupa
+node/11227664283,,isolated_dwelling,,Kunene,Epupa
+node/11227664284,,hamlet,,Kunene,Epupa
+node/11227664274,,isolated_dwelling,,Kunene,Epupa
+node/11226204302,,isolated_dwelling,,Kunene,Epupa
+node/11227664254,,isolated_dwelling,,Kunene,Epupa
+node/11227664253,,isolated_dwelling,,Kunene,Epupa
+node/11227664268,,isolated_dwelling,,Kunene,Epupa
+node/11227664269,,isolated_dwelling,,Kunene,Epupa
+node/11227820870,,isolated_dwelling,,Kunene,Epupa
+node/3347749612,,isolated_dwelling,,Kunene,Epupa
+node/3347749890,,isolated_dwelling,,Kunene,Epupa
+node/13039676437,,hamlet,,Kunene,Epupa
+node/5952085552,,isolated_dwelling,,Kunene,Epupa
+node/2193289085,,isolated_dwelling,,Kunene,Epupa
+node/2193289153,,hamlet,,Kunene,Epupa
+node/2193288109,,hamlet,,Kunene,Epupa
+node/11227845351,,isolated_dwelling,,Kunene,Epupa
+node/11227845352,,isolated_dwelling,,Kunene,Epupa
+node/11227845350,,isolated_dwelling,,Kunene,Epupa
+node/3784514658,,isolated_dwelling,,Kunene,Epupa
+node/3784514773,,isolated_dwelling,,Kunene,Epupa
+node/3784514682,,isolated_dwelling,,Kunene,Epupa
+node/2189664365,,isolated_dwelling,,Kunene,Epupa
+node/2189666735,,hamlet,,Kunene,Epupa
+node/2189666468,,isolated_dwelling,,Kunene,Epupa
+node/2189665279,,hamlet,,Kunene,Epupa
+node/2189664508,,isolated_dwelling,,Kunene,Epupa
+node/2189665758,,isolated_dwelling,,Kunene,Epupa
+node/2189667003,,isolated_dwelling,,Kunene,Epupa
+node/2189667897,,isolated_dwelling,,Kunene,Epupa
+node/2189667907,,isolated_dwelling,,Kunene,Epupa
+node/2189667916,,hamlet,,Kunene,Epupa
+node/2189667909,,hamlet,,Kunene,Epupa
+node/2189667902,,isolated_dwelling,,Kunene,Epupa
+node/2189667988,,isolated_dwelling,,Kunene,Epupa
+node/2189667968,,hamlet,,Kunene,Epupa
+node/2189667929,,isolated_dwelling,,Kunene,Epupa
+node/2189667571,,isolated_dwelling,,Kunene,Epupa
+node/2189667487,,hamlet,,Kunene,Epupa
+node/2189667565,,isolated_dwelling,,Kunene,Epupa
+node/2189666407,,isolated_dwelling,,Kunene,Epupa
+node/2189666533,,isolated_dwelling,,Kunene,Epupa
+node/2189665462,,hamlet,,Kunene,Epupa
+node/2189665581,,isolated_dwelling,,Kunene,Epupa
+node/2189665666,,isolated_dwelling,,Kunene,Epupa
+node/2189665800,,hamlet,,Kunene,Epupa
+node/2189665365,,isolated_dwelling,,Kunene,Epupa
+node/2189665203,,isolated_dwelling,,Kunene,Epupa
+node/2189665395,,isolated_dwelling,,Kunene,Epupa
+node/2189665445,,isolated_dwelling,,Kunene,Epupa
+node/2189667471,,hamlet,,Kunene,Epupa
+node/2189667450,,hamlet,,Kunene,Epupa
+node/2189667345,,isolated_dwelling,,Kunene,Epupa
+node/2189667356,,isolated_dwelling,,Kunene,Epupa
+node/2189667369,,isolated_dwelling,,Kunene,Epupa
+node/2189667309,,hamlet,,Kunene,Epupa
+node/2189667168,,isolated_dwelling,,Kunene,Epupa
+node/2189665965,,isolated_dwelling,,Kunene,Epupa
+node/2189666567,,isolated_dwelling,,Kunene,Epupa
+node/2189666503,,isolated_dwelling,,Kunene,Epupa
+node/2189666890,,isolated_dwelling,,Kunene,Epupa
+node/2189667183,,isolated_dwelling,,Kunene,Epupa
+node/2189667170,,isolated_dwelling,,Kunene,Epupa
+node/2189667455,,isolated_dwelling,,Kunene,Epupa
+node/2189667407,,isolated_dwelling,,Kunene,Epupa
+node/2189666771,,hamlet,,Kunene,Epupa
+node/2189666805,,isolated_dwelling,,Kunene,Epupa
+node/2189666742,,isolated_dwelling,,Kunene,Epupa
+node/2189665235,,isolated_dwelling,,Kunene,Epupa
+node/2189665132,,isolated_dwelling,,Kunene,Epupa
+node/2189664554,,isolated_dwelling,,Kunene,Epupa
+node/2189664608,,isolated_dwelling,,Kunene,Epupa
+node/2189664803,,isolated_dwelling,,Kunene,Epupa
+node/3784521378,,hamlet,,Kunene,Epupa
+node/3784515422,,hamlet,,Kunene,Epupa
+node/3346504101,,isolated_dwelling,,Kunene,Epupa
+node/3346504099,,isolated_dwelling,,Kunene,Epupa
+node/3346504098,,isolated_dwelling,,Kunene,Epupa
+node/3346504100,,isolated_dwelling,,Kunene,Epupa
+node/3346504102,,isolated_dwelling,,Kunene,Epupa
+node/3346504103,,isolated_dwelling,,Kunene,Epupa
+node/11227823554,,isolated_dwelling,,Kunene,Epupa
+node/11227820897,,hamlet,,Kunene,Epupa
+node/11227820898,,hamlet,,Kunene,Epupa
+node/11227823557,,isolated_dwelling,,Kunene,Epupa
+node/11227823556,,isolated_dwelling,,Kunene,Epupa
+node/11227823555,,isolated_dwelling,,Kunene,Epupa
+node/3347449377,,isolated_dwelling,,Kunene,Epupa
+node/3347449381,,isolated_dwelling,,Kunene,Epupa
+node/3347449392,,isolated_dwelling,,Kunene,Epupa
+node/3347449493,,isolated_dwelling,,Kunene,Epupa
+node/3347449504,,isolated_dwelling,,Kunene,Epupa
+node/3347449503,,hamlet,,Kunene,Epupa
+node/3347449494,,hamlet,,Kunene,Epupa
+node/3347449387,,isolated_dwelling,,Kunene,Epupa
+node/3347449385,,isolated_dwelling,,Kunene,Epupa
+node/3347449383,,isolated_dwelling,,Kunene,Epupa
+node/3347449382,,isolated_dwelling,,Kunene,Epupa
+node/3347449384,,isolated_dwelling,,Kunene,Epupa
+node/3347449389,,isolated_dwelling,,Kunene,Epupa
+node/3347449388,,isolated_dwelling,,Kunene,Epupa
+node/3347449390,,isolated_dwelling,,Kunene,Epupa
+node/3347449391,,isolated_dwelling,,Kunene,Epupa
+node/3347449386,,isolated_dwelling,,Kunene,Epupa
+node/3347449380,,isolated_dwelling,,Kunene,Epupa
+node/3347449379,,isolated_dwelling,,Kunene,Epupa
+node/3347449374,,isolated_dwelling,,Kunene,Epupa
+node/3347449367,,isolated_dwelling,,Kunene,Epupa
+node/3347449368,,isolated_dwelling,,Kunene,Epupa
+node/3347449355,,isolated_dwelling,,Kunene,Epupa
+node/3347449354,,isolated_dwelling,,Kunene,Epupa
+node/3347449121,,isolated_dwelling,,Kunene,Epupa
+node/3347449365,,isolated_dwelling,,Kunene,Epupa
+node/3347449369,,isolated_dwelling,,Kunene,Epupa
+node/3347448461,,isolated_dwelling,,Kunene,Epupa
+node/3347448460,,isolated_dwelling,,Kunene,Epupa
+node/3347449373,,isolated_dwelling,,Kunene,Epupa
+node/3347449366,,isolated_dwelling,,Kunene,Epupa
+node/3347448462,,isolated_dwelling,,Kunene,Epupa
+node/3347448463,,isolated_dwelling,,Kunene,Epupa
+node/3347449356,,isolated_dwelling,,Kunene,Epupa
+node/3347449370,,isolated_dwelling,,Kunene,Epupa
+node/3347449362,,isolated_dwelling,,Kunene,Epupa
+node/3347449357,,isolated_dwelling,,Kunene,Epupa
+node/3347449358,,isolated_dwelling,,Kunene,Epupa
+node/3347449359,,isolated_dwelling,,Kunene,Epupa
+node/3347449363,,isolated_dwelling,,Kunene,Epupa
+node/3347449364,,isolated_dwelling,,Kunene,Epupa
+node/3347449375,,isolated_dwelling,,Kunene,Epupa
+node/3347449376,,isolated_dwelling,,Kunene,Epupa
+node/3347449378,,isolated_dwelling,,Kunene,Epupa
+node/3347449371,,isolated_dwelling,,Kunene,Epupa
+node/3347449372,,isolated_dwelling,,Kunene,Epupa
+node/3347449361,,isolated_dwelling,,Kunene,Epupa
+node/3347449360,,isolated_dwelling,,Kunene,Epupa
+node/3347449508,,isolated_dwelling,,Kunene,Epupa
+node/3347449505,,isolated_dwelling,,Kunene,Epupa
+node/3347449506,,isolated_dwelling,,Kunene,Epupa
+node/3347449507,,isolated_dwelling,,Kunene,Epupa
+node/11227820871,,hamlet,,Kunene,Epupa
+node/3208325808,,hamlet,,Kunene,Opuwo
+node/3209741200,,hamlet,,Kunene,Opuwo
+node/6157296825,,village,,Kunene,Opuwo
+node/5948514827,,isolated_dwelling,,Kunene,Opuwo
+node/5948515124,,hamlet,,Kunene,Opuwo
+node/5928819897,,hamlet,,Kunene,Opuwo
+node/5928819941,,isolated_dwelling,,Kunene,Opuwo
+node/6142360586,,hamlet,,Kunene,Opuwo
+node/5931484506,,hamlet,,Kunene,Opuwo
+node/5931484061,,hamlet,,Kunene,Opuwo
+node/5931484507,,isolated_dwelling,,Kunene,Opuwo
+node/5931484508,,isolated_dwelling,,Kunene,Opuwo
+node/3209757387,,hamlet,,Kunene,Opuwo
+node/3209871547,,hamlet,,Kunene,Opuwo
+node/5933690770,,hamlet,,Kunene,Opuwo
+node/3208273928,,hamlet,,Kunene,Opuwo
+node/5928610849,,hamlet,,Kunene,Opuwo
+node/5928610848,,hamlet,,Kunene,Opuwo
+node/5350930546,,hamlet,,Kunene,Opuwo
+node/6142360585,,isolated_dwelling,,Kunene,Opuwo
+node/5931346882,,isolated_dwelling,,Kunene,Opuwo
+node/5931348308,,hamlet,,Kunene,Opuwo
+node/5928819724,,hamlet,,Kunene,Opuwo
+node/5928819759,,hamlet,,Kunene,Opuwo
+node/5928821844,,hamlet,,Kunene,Opuwo
+node/5928821845,,hamlet,,Kunene,Opuwo
+node/5928610843,,hamlet,,Kunene,Opuwo
+node/5928610842,,hamlet,,Kunene,Opuwo
+node/5928610841,,hamlet,,Kunene,Opuwo
+node/11230493304,,isolated_dwelling,,Kunene,Opuwo
+node/11230546302,,hamlet,,Kunene,Opuwo
+node/5931346385,,hamlet,,Kunene,Opuwo
+node/5931346384,,hamlet,,Kunene,Opuwo
+node/5931346383,,isolated_dwelling,,Kunene,Opuwo
+node/5931346381,,hamlet,,Kunene,Opuwo
+node/11230546105,,hamlet,,Kunene,Opuwo
+node/11230546639,,isolated_dwelling,,Kunene,Opuwo
+node/11230539736,,isolated_dwelling,,Kunene,Opuwo
+node/11230539733,,isolated_dwelling,,Kunene,Opuwo
+node/11228496172,,isolated_dwelling,,Kunene,Opuwo
+node/11228496171,,isolated_dwelling,,Kunene,Opuwo
+node/11228496170,,isolated_dwelling,,Kunene,Opuwo
+node/11230539727,,isolated_dwelling,,Kunene,Opuwo
+node/11228496097,,isolated_dwelling,,Kunene,Opuwo
+node/11228496094,,isolated_dwelling,,Kunene,Opuwo
+node/11228496096,,isolated_dwelling,,Kunene,Opuwo
+node/11228496095,,isolated_dwelling,,Kunene,Opuwo
+node/11228496098,,isolated_dwelling,,Kunene,Opuwo
+node/11228496149,,isolated_dwelling,,Kunene,Opuwo
+node/11228496120,,isolated_dwelling,,Kunene,Opuwo
+node/11228496099,,isolated_dwelling,,Kunene,Opuwo
+node/11228496123,,isolated_dwelling,,Kunene,Opuwo
+node/11228496148,,isolated_dwelling,,Kunene,Opuwo
+node/11228496122,,isolated_dwelling,,Kunene,Opuwo
+node/11228496121,,isolated_dwelling,,Kunene,Opuwo
+node/11228496169,,isolated_dwelling,,Kunene,Opuwo
+node/5931346380,,isolated_dwelling,,Kunene,Opuwo
+node/5931346379,,isolated_dwelling,,Kunene,Opuwo
+node/3347751994,,hamlet,,Kunene,Opuwo
+node/3209812796,,hamlet,,Kunene,Opuwo
+node/11230539719,,isolated_dwelling,,Kunene,Opuwo
+way/377135313,,isolated_dwelling,,Kunene,Sesfontein
+way/376235929,,hamlet,,Kunene,Sesfontein
+way/376087771,,isolated_dwelling,,Kunene,Sesfontein
+way/376087770,,isolated_dwelling,,Kunene,Sesfontein
+way/376083352,,isolated_dwelling,,Kunene,Sesfontein
+way/376067392,,isolated_dwelling,,Kunene,Sesfontein
+way/376105445,,isolated_dwelling,,Kunene,Sesfontein
+node/3208213243,,hamlet,,Kunene,Sesfontein
+node/3208213067,,hamlet,,Kunene,Opuwo
+way/376222305,,isolated_dwelling,,Kunene,Sesfontein
+way/376268217,,hamlet,,Kunene,Sesfontein
+way/376257637,,hamlet,,Kunene,Sesfontein
+way/376369009,,hamlet,,Kunene,Sesfontein
+way/376498923,,isolated_dwelling,,Kunene,Sesfontein
+way/376369012,,hamlet,,Kunene,Sesfontein
+way/376377688,,hamlet,,Kunene,Sesfontein
+way/376338893,,hamlet,,Omusati,Okahao
+way/376369010,,isolated_dwelling,,Kunene,Sesfontein
+way/376268216,,hamlet,,Kunene,Sesfontein
+way/376268201,,hamlet,,Kunene,Sesfontein
+node/3208311598,,village,,Omusati,Ruacana
+node/2208469160,,village,,Omusati,Ruacana
+node/3208311576,,hamlet,,Omusati,Ruacana
+node/3208311654,,hamlet,,Omusati,Ruacana
+node/7539225428,,hamlet,,Oshikoto,Omuntele
+node/3211476294,,hamlet,,Oshikoto,Eengodi
+node/3211901871,,hamlet,,Oshikoto,Onyaanya
+node/3211899053,,hamlet,,Oshikoto,Onyaanya
+node/2026428898,,village,,Omaheke,Otjinene
+node/3367404199,,hamlet,,Otjozondjupa,Okakarara
+node/5777828110,,hamlet,,Otjozondjupa,Okakarara
+node/3318028650,,isolated_dwelling,,Otjozondjupa,Grootfontein
+node/3318028651,,isolated_dwelling,,Otjozondjupa,Grootfontein
+node/3318028652,,isolated_dwelling,,Otjozondjupa,Grootfontein
+way/1338665844,,isolated_dwelling,,Kavango West,Kapako
+way/1338665845,,isolated_dwelling,,Kavango West,Kapako
+way/1338665893,,isolated_dwelling,,Kavango West,Kapako
+way/1338665887,,isolated_dwelling,,Kavango West,Kapako
+way/1338665896,,isolated_dwelling,,Kavango West,Kapako
+way/1338665880,,isolated_dwelling,,Kavango West,Kapako
+way/1494386987,,isolated_dwelling,,Kavango West,Kapako
+way/1338665841,,isolated_dwelling,,Kavango West,Kapako
+way/1341584907,,isolated_dwelling,,Kavango East,Mashare
+way/1341584884,,isolated_dwelling,,Kavango East,Mashare
+way/1341530107,,isolated_dwelling,,Kavango East,Mashare
+way/1341584885,,isolated_dwelling,,Kavango East,Mashare
+way/1339258574,,isolated_dwelling,,Kavango East,Mashare
+way/1339258579,,isolated_dwelling,,Kavango East,Mashare
+way/1339258607,,isolated_dwelling,,Kavango East,Mashare
+way/1339258562,,isolated_dwelling,,Kavango East,Mashare
+way/1339258569,,isolated_dwelling,,Kavango East,Mashare
+way/1341530079,,isolated_dwelling,,Kavango East,Mashare
+way/1341530080,,isolated_dwelling,,Kavango East,Mashare
+way/1002091071,,village,,Kavango East,Mashare
+way/1002091062,,village,,Kavango East,Mashare
+way/1339258620,,isolated_dwelling,,Kavango East,Mashare
+way/1339214759,,isolated_dwelling,,Kavango East,Mashare
+way/1339214758,,isolated_dwelling,,Kavango East,Mashare
+way/1339214757,,isolated_dwelling,,Kavango East,Mashare
+way/1339214741,,isolated_dwelling,,Kavango East,Mashare
+way/1339214775,,isolated_dwelling,,Kavango East,Mashare
+way/1339214779,,isolated_dwelling,,Kavango East,Mashare
+way/1339214737,,isolated_dwelling,,Kavango East,Mashare
+way/1338721164,,isolated_dwelling,,Kavango East,Mashare
+way/1338721170,,isolated_dwelling,,Kavango West,Kapako
+way/1338706185,,isolated_dwelling,,Kavango West,Kapako
+way/1338721187,,isolated_dwelling,,Kavango West,Kapako
+way/1338721186,,isolated_dwelling,,Kavango East,Mashare
+way/1338721188,,isolated_dwelling,,Kavango West,Kapako
+way/1338721189,,isolated_dwelling,,Kavango West,Kapako
+way/1338721190,,isolated_dwelling,,Kavango West,Kapako
+way/1338721185,,isolated_dwelling,,Kavango East,Mashare
+way/1338721191,,isolated_dwelling,,Kavango West,Kapako
+way/1338596422,,isolated_dwelling,,Kavango East,Mashare
+way/1338706186,,isolated_dwelling,,Kavango West,Kapako
+way/1338596427,,isolated_dwelling,,Kavango East,Mashare
+way/1338596426,,isolated_dwelling,,Kavango West,Kapako
+way/1338665916,,isolated_dwelling,,Kavango West,Kapako
+way/1338665921,,isolated_dwelling,,Kavango West,Kapako
+way/1338665926,,isolated_dwelling,,Kavango West,Kapako
+way/1338665839,,isolated_dwelling,,Kavango West,Kapako
+way/1497060431,,isolated_dwelling,,Kavango West,Kapako
+way/1498580001,,farm,,Kavango West,Kapako
+way/1338830185,,isolated_dwelling,,Kavango East,Mashare
+way/1338830186,,isolated_dwelling,,Kavango East,Mashare
+way/1338830184,,isolated_dwelling,,Kavango East,Mashare
+way/1338642898,,isolated_dwelling,,Kavango East,Mashare
+way/1338642371,,isolated_dwelling,,Kavango East,Mashare
+way/1338896550,,isolated_dwelling,,Kavango East,Mashare
+way/1338896549,,isolated_dwelling,,Kavango East,Mashare
+way/1338896553,,isolated_dwelling,,Kavango East,Mashare
+way/1494386992,,isolated_dwelling,,Kavango West,Kapako
+way/1497060432,,isolated_dwelling,,Kavango West,Kapako
+node/11569571528,,hamlet,,Kavango East,Mukwe
+node/7206362097,,isolated_dwelling,,Zambezi,Linyanti
+node/3215893784,,hamlet,,Zambezi,Sibbinda
+node/3216015552,,hamlet,,Zambezi,Kongola
+node/3215893761,,hamlet,,Zambezi,Sibbinda
+node/3215893790,,hamlet,,Zambezi,Sibbinda
+node/3194374976,,village,,Zambezi,Kongola
+node/3216024852,,hamlet,,Zambezi,Katima Mulilo Rural
+node/3216076222,,hamlet,,Zambezi,Katima Mulilo Rural
+node/3216076363,,hamlet,,Zambezi,Katima Mulilo Rural
+node/3216076220,,hamlet,,Zambezi,Katima Mulilo Rural
+node/3216076253,,hamlet,,Zambezi,Katima Mulilo Rural
+node/3216076165,,hamlet,,Zambezi,Katima Mulilo Rural
+node/3216024835,,hamlet,,Zambezi,Katima Mulilo Rural
+node/1936375734,,hamlet,,Zambezi,Kabbe
+node/1936375912,,hamlet,,Zambezi,Kabbe
+node/1936375902,,hamlet,,Zambezi,Kabbe
+node/3362239429,,hamlet,,Zambezi,Kabbe
+node/3362239430,,hamlet,,Zambezi,Kabbe
+node/3362239428,,hamlet,,Zambezi,Kabbe
+node/3367906924,,hamlet,,Zambezi,Kabbe
+node/5422200925,,hamlet,,Zambezi,Kabbe
+node/1936375690,,hamlet,,Zambezi,Kabbe
+node/4140482192,,hamlet,,,
+node/1936375617,,hamlet,,Zambezi,Kabbe
+node/3370944527,,hamlet,,Zambezi,Kabbe
+node/1936375820,,hamlet,,Zambezi,Kabbe
+node/1936375796,,hamlet,,Zambezi,Kabbe
+node/3370944562,,hamlet,,Zambezi,Kabbe
+node/1936375653,,hamlet,,Zambezi,Kabbe
+node/1936375821,,hamlet,,Zambezi,Kabbe
+node/1936375694,,hamlet,,Zambezi,Kabbe
+node/1936375750,,hamlet,,Zambezi,Kabbe
+node/1936375622,,hamlet,,Zambezi,Kabbe
+node/3181162796,,hamlet,,Karas,Naminus (Luderitz)
+node/3178934349,,hamlet,,Karas,Naminus (Luderitz)
+way/403450505,,hamlet,,Karas,Oranjemund
+node/3526738150,,isolated_dwelling,,,
+node/3175725954,,hamlet,,Karas,Karasburg
+node/3166721374,,hamlet,,Karas,Karasburg
+node/5279337620,,isolated_dwelling,,Karas,Karasburg
+way/191883938,,hamlet,,Karas,Karasburg
+node/3175687675,,hamlet,,Karas,Keetmanshoop Rural
+node/3554474936,,isolated_dwelling,,Karas,Keetmanshoop Rural
+node/3181280953,,hamlet,,Karas,Berseba
+node/3181675417,,hamlet,,Karas,Berseba
+node/3161811381,,hamlet,,Karas,Berseba
+way/442222049,,isolated_dwelling,,Karas,Naminus (Luderitz)
+node/3181675191,,hamlet,,Karas,Berseba
+node/3178626688,,hamlet,,Hardap,Gibeon
+node/3178595550,,hamlet,,Hardap,Gibeon
+node/3183381363,,hamlet,,Hardap,Gibeon
+node/3183381123,,hamlet,,Hardap,Gibeon
+node/3188213318,,hamlet,,Hardap,Rehoboth Rural
+node/3183455547,,hamlet,,Hardap,Gibeon
+node/3183455676,,hamlet,,Hardap,Gibeon
+node/5271839493,,hamlet,,Hardap,Gibeon
+node/5271839479,,isolated_dwelling,,Hardap,Gibeon
+node/5271839326,,isolated_dwelling,,Hardap,Gibeon
+node/5271839667,,hamlet,,Hardap,Gibeon
+node/5269952777,,isolated_dwelling,,Karas,Berseba
+node/5269953196,,village,,Karas,Berseba
+node/3159312694,,hamlet,,Hardap,Gibeon
+node/3159312695,,hamlet,,Hardap,Gibeon
+node/5269950899,,hamlet,,Hardap,Gibeon
+node/3190526308,,hamlet,,Hardap,Gibeon
+node/3161510819,,hamlet,,Hardap,Gibeon
+node/3161530567,,hamlet,,Hardap,Gibeon
+node/3161511081,,hamlet,,Hardap,Gibeon
+node/3161511070,,hamlet,,Hardap,Mariental Rural
+node/3159617862,,hamlet,,Hardap,Mariental Rural
+node/3162965449,,hamlet,,Hardap,Gibeon
+node/3162968326,,hamlet,,Hardap,Gibeon
+node/3188044084,,hamlet,,Hardap,Rehoboth Rural
+node/3189218356,,hamlet,,Hardap,Mariental Rural
+node/3188044076,,hamlet,,Hardap,Rehoboth Rural
+node/3186051284,,hamlet,,Hardap,Mariental Rural
+node/3188466375,,hamlet,,Hardap,Mariental Rural
+node/3186051301,,hamlet,,Hardap,Mariental Rural
+node/3186051415,,hamlet,,Hardap,Mariental Rural
+node/3186051277,,hamlet,,Hardap,Mariental Rural
+node/3186051405,,hamlet,,Khomas,Windhoek Rural
+node/3190054885,,hamlet,,Khomas,Windhoek Rural
+node/4919210249,,hamlet,,Khomas,Windhoek Rural
+node/6435089655,,hamlet,,Omaheke,Gobabis
+node/6822048979,,hamlet,,Khomas,Windhoek Rural
+node/6822048910,,hamlet,,Khomas,Windhoek Rural
+node/6213236003,,hamlet,,Hardap,Rehoboth Urban East
+node/3189607859,,hamlet,,Hardap,Rehoboth Urban East
+node/3189609024,,hamlet,,Hardap,Rehoboth Urban West
+node/3189634616,,hamlet,,Khomas,Windhoek Rural
+node/3189635234,,hamlet,,Khomas,Windhoek Rural
+node/6822048993,,hamlet,,Khomas,Windhoek Rural
+node/6822048981,,hamlet,,Khomas,Windhoek Rural
+node/4289114058,,hamlet,,Khomas,Windhoek Rural
+node/4297406052,,hamlet,,Khomas,Windhoek Rural
+node/3439574944,,hamlet,,Khomas,Windhoek Rural
+node/4225930397,,hamlet,,Khomas,Windhoek Rural
+node/3440706399,,hamlet,,Khomas,Windhoek Rural
+node/4210855988,,hamlet,,Khomas,Windhoek Rural
+node/4356494060,,hamlet,,Khomas,Windhoek Rural
+node/3443306045,,hamlet,,Khomas,Windhoek Rural
+node/4306184255,,hamlet,,Hardap,Rehoboth Rural
+node/4392475098,,hamlet,,Hardap,Rehoboth Rural
+node/4370222362,,hamlet,,Khomas,Windhoek Rural
+node/4005529207,,hamlet,,Khomas,Windhoek Rural
+node/4226934673,,hamlet,,Khomas,Windhoek Rural
+node/4306957536,,hamlet,,Hardap,Rehoboth Rural
+node/4252985302,,hamlet,,Khomas,Windhoek Rural
+node/4252985415,,hamlet,,Khomas,Windhoek Rural
+node/4920405491,,hamlet,,Hardap,Rehoboth Rural
+node/3186040813,,hamlet,,Khomas,Windhoek Rural
+node/3186040833,,hamlet,,Khomas,Windhoek Rural
+node/4920169550,,hamlet,,Hardap,Gibeon
+node/4021088752,,hamlet,,Khomas,Windhoek Rural
+node/3440807545,,hamlet,,Khomas,Windhoek Rural
+node/3440807638,,hamlet,,Khomas,Windhoek Rural
+node/4920533659,,hamlet,,Hardap,Rehoboth Rural
+node/4920781788,,hamlet,,Hardap,Rehoboth Rural
+node/4920541483,,hamlet,,Hardap,Rehoboth Rural
+node/4263214627,,hamlet,,Khomas,Windhoek Rural
+node/3441194624,,hamlet,,Khomas,Windhoek Rural
+node/3441288601,,hamlet,,Khomas,Windhoek Rural
+node/3441195224,,hamlet,,Hardap,Rehoboth Rural
+node/3993978154,,hamlet,,Khomas,Windhoek Rural
+node/2832138439,,hamlet,,Khomas,Windhoek Rural
+node/3994053382,,hamlet,,Khomas,Windhoek Rural
+node/3447208524,,hamlet,,Khomas,Windhoek Rural
+node/2835188744,,hamlet,,Khomas,Windhoek Rural
+node/4021482732,,hamlet,,Khomas,Windhoek Rural
+node/3439479074,,hamlet,,Erongo,Karibib
+node/3214284936,,hamlet,,Erongo,Arandis
